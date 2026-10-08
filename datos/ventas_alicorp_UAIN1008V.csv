@@ -1,0 +1,1226 @@
+ID_Transaccion,Fecha,Categoria,Producto,Canal_Distribucion,Cantidad_Unidades,Precio_Unitario_PEN,Monto_Total_PEN
+TRX-1000,2025-01-01,Cuidado del Hogar,Lavatodo Sapolio,Tradicional,35.0,14.18,496.15
+TRX-1001,2025-01-01,Cuidado Personal,Jabón Fresh Menta,Tradicional,2392.0,5.51,13179.92
+TRX-1002,2025-01-01,Cuidado Personal,Desodorante Mirror Dry,Moderno,46.0,41.64,1915.56
+TRX-1003,2025-01-01,Cuidado del Hogar,Lavatodo Sapolio,Tradicional,47.0,38.83,1825.16
+TRX-1004,2025-01-02,Alimentos,Fideos Don Vittorio,Tradicional,,34.82,1462.46
+TRX-1005,2025-01-02,Cuidado Personal,Desodorante Mirror Dry,Tradicional,46.0,12.13,557.92
+TRX-1006,2025-01-02,Cuidado Personal,Desodorante Mirror Dry,Tradicional,50.0,10.25,512.72
+TRX-1007,2025-01-03,Cuidado del Hogar,Lavatodo Sapolio,Tradicional,50.0,8.17,408.52
+TRX-1008,2025-01-03,Alimentos,Aceite Primor Premium,Tradicional,62.0,34.1,2114.15
+TRX-1009,2025-01-03,Alimentos,Fideos Don Vittorio,Tradicional,41.0,42.19,1729.7
+TRX-1010,2025-01-04,Cuidado del Hogar,Lavatodo Sapolio,Tradicional,41.0,22.51,922.75
+TRX-1011,2025-01-04,Alimentos,Fideos Don Vittorio,Tradicional,44.0,10.21,449.07
+TRX-1012,2025-01-04,Alimentos,Fideos Don Vittorio,Tradicional,54.0,25.74,1389.93
+TRX-1013,2025-01-04,Cuidado Personal,Desodorante Mirror Dry,Tradicional,43.0,19.28,828.99
+TRX-1014,2025-01-05,Cuidado Personal,Jabón Fresh Menta,Tradicional,49.0,20.31,994.97
+TRX-1015,2025-01-05,Alimentos,Fideos Don Vittorio,Tradicional,47.0,30.04,1412.0
+TRX-1016,2025-01-05,Cuidado del Hogar,Detergente Bolívar,Tradicional,51.0,33.89,1728.36
+TRX-1017,2025-01-06,Cuidado Personal,Desodorante Mirror Dry,Tradicional,47.0,9.87,463.84
+TRX-1018,2025-01-06,Alimentos,Aceite Primor Premium,Tradicional,48.0,6.91,331.48
+TRX-1019,2025-01-06,Cuidado Personal,Jabón Fresh Menta,Mayorista,47.0,44.78,2104.47
+TRX-1020,2025-01-07,Cuidado del Hogar,Detergente Bolívar,Tradicional,46.0,14.69,675.87
+TRX-1021,2025-01-07,Cuidado del Hogar,Detergente Bolívar,Moderno,49.0,7.63,373.69
+TRX-1022,2025-01-07,Alimentos,Aceite Primor Premium,Tradicional,1699.0,13.0,22087.0
+TRX-1023,2025-01-07,Cuidado Personal,Jabón Fresh Menta,,45.0,7.04,316.75
+TRX-1024,2025-01-08,Cuidado Personal,Desodorante Mirror Dry,Moderno,31.0,20.98,650.27
+TRX-1025,2025-01-08,Alimentos,Galletas Soda Sayón,Tradicional,51.0,37.19,1896.94
+TRX-1026,2025-01-08,Cuidado Personal,Jabón Fresh Menta,Tradicional,51.0,18.98,967.94
+TRX-1027,2025-01-09,Alimentos,Aceite Primor Premium,Tradicional,44.0,23.05,1013.99
+TRX-1028,2025-01-09,Cuidado del Hogar,Detergente Bolívar,Tradicional,41.0,32.19,1319.61
+TRX-1029,2025-01-09,Cuidado Personal,Desodorante Mirror Dry,Mayorista,34.0,25.6,870.44
+TRX-1030,2025-01-10,Cuidado Personal,Jabón Fresh Menta,Moderno,47.0,39.53,1857.77
+TRX-1031,2025-01-10,Alimentos,Galletas Soda Sayón,Mayorista,48.0,39.71,1906.0
+TRX-1032,2025-01-10,Alimentos,Galletas Soda Sayón,Tradicional,48.0,5.89,282.79
+TRX-1033,2025-01-11,Alimentos,Fideos Don Vittorio,Moderno,36.0,36.23,1304.38
+TRX-1034,2025-01-11,Alimentos,Fideos Don Vittorio,Mayorista,53.0,23.7,1256.05
+TRX-1035,2025-01-11,Cuidado del Hogar,Lavatodo Sapolio,Tradicional,46.0,44.56,2049.72
+TRX-1036,2025-01-11,Alimentos,Aceite Primor Premium,Tradicional,38.0,24.59,934.33
+TRX-1037,2025-01-12,Cuidado Personal,Jabón Fresh Menta,Moderno,42.0,44.48,1868.26
+TRX-1038,2025-01-12,Cuidado Personal,Jabón Fresh Menta,Tradicional,40.0,35.31,1412.22
+TRX-1039,2025-01-12,Cuidado del Hogar,Lavatodo Sapolio,Moderno,41.0,15.32,628.12
+TRX-1040,2025-01-13,Cuidado del Hogar,Detergente Bolívar,Tradicional,40.0,26.77,1070.66
+TRX-1041,2025-01-13,Cuidado del Hogar,Detergente Bolívar,Moderno,38.0,44.69,1698.2
+TRX-1042,2025-01-13,Cuidado del Hogar,Lavatodo Sapolio,Tradicional,44.0,39.37,1732.39
+TRX-1043,2025-01-14,Cuidado del Hogar,Detergente Bolívar,Tradicional,36.0,9.35,336.46
+TRX-1044,2025-01-14,Alimentos,Fideos Don Vittorio,Tradicional,50.0,33.4,1670.08
+TRX-1045,2025-01-14,Cuidado Personal,Jabón Fresh Menta,Moderno,44.0,19.15,842.62
+TRX-1046,2025-01-14,Cuidado del Hogar,Lavatodo Sapolio,Tradicional,51.0,5.78,294.57
+TRX-1047,2025-01-15,Cuidado Personal,Jabón Fresh Menta,Tradicional,47.0,21.44,1007.56
+TRX-1048,2025-01-15,Alimentos,Galletas Soda Sayón,Tradicional,50.0,14.77,738.64
+TRX-1049,2025-01-15,Alimentos,Fideos Don Vittorio,Moderno,61.0,37.85,2308.57
+TRX-1050,2025-01-16,Cuidado Personal,Desodorante Mirror Dry,Tradicional,31.0,18.82,583.56
+TRX-1051,2025-01-16,Alimentos,Fideos Don Vittorio,Moderno,40.0,38.19,1527.49
+TRX-1052,2025-01-16,Cuidado del Hogar,Lavatodo Sapolio,Tradicional,56.0,5.52,309.32
+TRX-1053,2025-01-17,Cuidado Personal,Desodorante Mirror Dry,Tradicional,40.0,17.66,706.35
+TRX-1054,2025-01-17,Alimentos,Galletas Soda Sayón,Tradicional,44.0,15.03,661.15
+TRX-1055,2025-01-17,Cuidado del Hogar,Lavatodo Sapolio,Tradicional,32.0,14.73,471.23
+TRX-1056,2025-01-18,Alimentos,Aceite Primor Premium,Moderno,26.0,8.19,213.03
+TRX-1057,2025-01-18,Cuidado Personal,Jabón Fresh Menta,Tradicional,56.0,12.89,721.92
+TRX-1058,2025-01-18,Alimentos,Galletas Soda Sayón,Tradicional,46.0,27.44,1262.43
+TRX-1059,2025-01-18,Cuidado Personal,Jabón Fresh Menta,Moderno,42.0,17.01,714.37
+TRX-1060,2025-01-19,Cuidado del Hogar,Detergente Bolívar,Tradicional,58.0,21.99,1275.25
+TRX-1061,2025-01-19,Alimentos,Aceite Primor Premium,Tradicional,43.0,20.39,876.61
+TRX-1062,2025-01-19,Alimentos,Aceite Primor Premium,Mayorista,40.0,40.1,1603.93
+TRX-1063,2025-01-20,Alimentos,Galletas Soda Sayón,Tradicional,38.0,41.26,1567.85
+TRX-1064,2025-01-20,Alimentos,Aceite Primor Premium,Tradicional,44.0,24.97,1098.76
+TRX-1065,2025-01-20,Cuidado Personal,Desodorante Mirror Dry,Mayorista,47.0,18.54,871.43
+TRX-1066,2025-01-21,Alimentos,Aceite Primor Premium,Tradicional,35.0,9.72,340.15
+TRX-1067,2025-01-21,Cuidado Personal,Jabón Fresh Menta,Tradicional,39.0,43.16,1683.22
+TRX-1068,2025-01-21,Cuidado Personal,Jabón Fresh Menta,Tradicional,53.0,7.88,417.59
+TRX-1069,2025-01-21,Cuidado del Hogar,Lavatodo Sapolio,Moderno,,17.26,776.57
+TRX-1070,2025-01-22,Cuidado Personal,Jabón Fresh Menta,Tradicional,53.0,17.27,915.5
+TRX-1071,2025-01-22,Cuidado del Hogar,Lavatodo Sapolio,Tradicional,32.0,18.16,580.99
+TRX-1072,2025-01-22,Cuidado Personal,Jabón Fresh Menta,Moderno,46.0,11.99,551.51
+TRX-1073,2025-01-23,Cuidado Personal,Desodorante Mirror Dry,Moderno,44.0,36.43,1603.13
+TRX-1074,2025-01-23,Cuidado del Hogar,Lavatodo Sapolio,,53.0,10.34,547.95
+TRX-1075,2025-01-23,Alimentos,Fideos Don Vittorio,Tradicional,44.0,30.58,1345.47
+TRX-1076,2025-01-24,Cuidado del Hogar,Detergente Bolívar,Tradicional,48.0,10.39,498.81
+TRX-1077,2025-01-24,Alimentos,Galletas Soda Sayón,Moderno,32.0,8.29,265.16
+TRX-1078,2025-01-24,Cuidado Personal,Jabón Fresh Menta,Tradicional,52.0,41.42,2153.97
+TRX-1079,2025-01-24,Alimentos,Aceite Primor Premium,Tradicional,38.0,13.01,494.38
+TRX-1080,2025-01-25,Cuidado Personal,Jabón Fresh Menta,Moderno,37.0,37.94,1403.76
+TRX-1081,2025-01-25,Alimentos,Aceite Primor Premium,Moderno,50.0,27.01,1350.65
+TRX-1082,2025-01-25,Cuidado del Hogar,Detergente Bolívar,Tradicional,39.0,8.58,334.44
+TRX-1083,2025-01-26,Cuidado del Hogar,Detergente Bolívar,Moderno,39.0,43.24,1686.37
+TRX-1084,2025-01-26,Cuidado del Hogar,Detergente Bolívar,Tradicional,44.0,15.25,671.22
+TRX-1085,2025-01-26,Alimentos,Aceite Primor Premium,Moderno,46.0,39.46,1814.98
+TRX-1086,2025-01-27,Cuidado Personal,Jabón Fresh Menta,Tradicional,35.0,12.17,425.88
+TRX-1087,2025-01-27,Cuidado del Hogar,Detergente Bolívar,Tradicional,52.0,39.23,2040.0
+TRX-1088,2025-01-27,Cuidado Personal,Desodorante Mirror Dry,Moderno,39.0,6.02,234.88
+TRX-1089,2025-01-28,Cuidado del Hogar,Lavatodo Sapolio,Tradicional,41.0,25.72,1054.33
+TRX-1090,2025-01-28,Alimentos,Aceite Primor Premium,Tradicional,46.0,35.89,1651.08
+TRX-1091,2025-01-28,Alimentos,Aceite Primor Premium,Moderno,51.0,42.42,2163.65
+TRX-1092,2025-01-28,Cuidado Personal,Jabón Fresh Menta,Moderno,56.0,41.41,2319.16
+TRX-1093,2025-01-29,Alimentos,Aceite Primor Premium,Tradicional,37.0,37.88,1401.38
+TRX-1094,2025-01-29,Alimentos,Aceite Primor Premium,Moderno,51.0,40.58,2069.76
+TRX-1095,2025-01-29,Cuidado del Hogar,Detergente Bolívar,Tradicional,37.0,13.37,494.66
+TRX-1096,2025-01-30,Cuidado Personal,Jabón Fresh Menta,Tradicional,48.0,16.73,802.81
+TRX-1097,2025-01-30,Cuidado del Hogar,Detergente Bolívar,Tradicional,,16.91,744.23
+TRX-1098,2025-01-30,Cuidado del Hogar,Lavatodo Sapolio,Tradicional,34.0,20.39,693.38
+TRX-1099,2025-01-31,Cuidado del Hogar,Lavatodo Sapolio,Mayorista,52.0,21.04,1093.88
+TRX-1100,2025-01-31,Cuidado del Hogar,Detergente Bolívar,Tradicional,64.0,27.01,1728.64
+TRX-1101,2025-01-31,Cuidado del Hogar,Lavatodo Sapolio,Tradicional,48.0,11.82,567.13
+TRX-1102,2025-01-31,Cuidado Personal,Jabón Fresh Menta,Tradicional,54.0,32.8,1771.43
+TRX-1103,2025-02-01,Alimentos,Galletas Soda Sayón,Mayorista,37.0,12.12,448.4
+TRX-1104,2025-02-01,Cuidado del Hogar,Detergente Bolívar,Tradicional,46.0,17.76,816.83
+TRX-1105,2025-02-01,Cuidado Personal,Desodorante Mirror Dry,Tradicional,49.0,25.38,1243.72
+TRX-1106,2025-02-02,Cuidado Personal,Desodorante Mirror Dry,Tradicional,,36.96,1219.66
+TRX-1107,2025-02-02,Alimentos,Aceite Primor Premium,Tradicional,38.0,34.71,1318.94
+TRX-1108,2025-02-02,Cuidado del Hogar,Lavatodo Sapolio,Tradicional,52.0,31.0,1611.93
+TRX-1109,2025-02-03,Cuidado Personal,Desodorante Mirror Dry,Moderno,49.0,11.65,571.0
+TRX-1110,2025-02-03,Alimentos,Aceite Primor Premium,Mayorista,44.0,27.11,1192.76
+TRX-1111,2025-02-03,Alimentos,Galletas Soda Sayón,Tradicional,44.0,8.95,393.98
+TRX-1112,2025-02-04,Cuidado Personal,Jabón Fresh Menta,Moderno,45.0,20.41,918.26
+TRX-1113,2025-02-04,Cuidado Personal,Jabón Fresh Menta,Mayorista,42.0,21.83,917.02
+TRX-1114,2025-02-04,Cuidado Personal,Jabón Fresh Menta,Moderno,49.0,7.07,346.56
+TRX-1115,2025-02-04,Cuidado Personal,Desodorante Mirror Dry,Tradicional,35.0,16.32,571.29
+TRX-1116,2025-02-05,Alimentos,Galletas Soda Sayón,Tradicional,1419.0,43.25,61371.75
+TRX-1117,2025-02-05,Cuidado Personal,Desodorante Mirror Dry,Tradicional,2078.0,43.17,89707.26000000001
+TRX-1118,2025-02-05,Cuidado del Hogar,Lavatodo Sapolio,Tradicional,48.0,19.42,932.01
+TRX-1119,2025-02-06,Cuidado Personal,Desodorante Mirror Dry,Moderno,42.0,7.2,302.5
+TRX-1120,2025-02-06,Alimentos,Galletas Soda Sayón,Mayorista,48.0,12.57,603.56
+TRX-1121,2025-02-06,Alimentos,Galletas Soda Sayón,Mayorista,49.0,20.99,1028.64
+TRX-1122,2025-02-07,Cuidado del Hogar,Lavatodo Sapolio,Tradicional,49.0,42.94,2103.93
+TRX-1123,2025-02-07,Alimentos,Galletas Soda Sayón,Tradicional,38.0,11.08,420.94
+TRX-1124,2025-02-07,Alimentos,Galletas Soda Sayón,Mayorista,39.0,35.66,1390.7
+TRX-1125,2025-02-07,Cuidado Personal,Jabón Fresh Menta,Moderno,40.0,9.79,391.72
+TRX-1126,2025-02-08,Cuidado del Hogar,Lavatodo Sapolio,Tradicional,49.0,44.26,2168.72
+TRX-1127,2025-02-08,Alimentos,Fideos Don Vittorio,Mayorista,41.0,20.57,843.53
+TRX-1128,2025-02-08,Alimentos,Fideos Don Vittorio,Moderno,54.0,36.12,1950.58
+TRX-1129,2025-02-09,Alimentos,Galletas Soda Sayón,Tradicional,51.0,19.03,970.65
+TRX-1130,2025-02-09,Alimentos,Fideos Don Vittorio,Tradicional,40.0,30.29,1211.72
+TRX-1131,2025-02-09,Alimentos,Fideos Don Vittorio,Tradicional,48.0,13.08,628.06
+TRX-1132,2025-02-10,Alimentos,Galletas Soda Sayón,Tradicional,35.0,11.27,394.37
+TRX-1133,2025-02-10,Alimentos,Fideos Don Vittorio,Tradicional,44.0,42.55,1872.36
+TRX-1134,2025-02-10,Cuidado Personal,Desodorante Mirror Dry,Moderno,46.0,41.75,1920.37
+TRX-1135,2025-02-10,Alimentos,Aceite Primor Premium,Tradicional,69.0,40.56,2798.3
+TRX-1136,2025-02-11,Cuidado del Hogar,Lavatodo Sapolio,Tradicional,43.0,30.2,1298.8
+TRX-1137,2025-02-11,Alimentos,Aceite Primor Premium,Tradicional,40.0,37.43,1497.06
+TRX-1138,2025-02-11,Alimentos,Galletas Soda Sayón,Tradicional,41.0,8.23,337.31
+TRX-1139,2025-02-12,Cuidado Personal,Jabón Fresh Menta,,50.0,18.72,936.21
+TRX-1140,2025-02-12,Cuidado del Hogar,Lavatodo Sapolio,Tradicional,50.0,17.89,894.56
+TRX-1141,2025-02-12,Alimentos,Galletas Soda Sayón,Tradicional,52.0,30.61,1591.62
+TRX-1142,2025-02-13,Cuidado Personal,Jabón Fresh Menta,Moderno,54.0,19.56,1056.26
+TRX-1143,2025-02-13,Alimentos,Aceite Primor Premium,Tradicional,49.0,11.37,556.93
+TRX-1144,2025-02-13,Alimentos,Galletas Soda Sayón,Tradicional,34.0,29.06,988.06
+TRX-1145,2025-02-14,Cuidado del Hogar,Lavatodo Sapolio,Tradicional,41.0,37.67,1544.39
+TRX-1146,2025-02-14,Cuidado del Hogar,Lavatodo Sapolio,Tradicional,41.0,20.59,844.35
+TRX-1147,2025-02-14,Cuidado del Hogar,Detergente Bolívar,Tradicional,50.0,10.72,536.23
+TRX-1148,2025-02-14,Cuidado Personal,Desodorante Mirror Dry,Tradicional,55.0,13.27,729.81
+TRX-1149,2025-02-15,Alimentos,Fideos Don Vittorio,Tradicional,48.0,14.88,714.27
+TRX-1150,2025-02-15,Cuidado Personal,Jabón Fresh Menta,Mayorista,55.0,17.35,954.03
+TRX-1151,2025-02-15,Cuidado del Hogar,Detergente Bolívar,Tradicional,33.0,30.89,1019.38
+TRX-1152,2025-02-16,Alimentos,Fideos Don Vittorio,Tradicional,51.0,29.24,1491.1
+TRX-1153,2025-02-16,Alimentos,Fideos Don Vittorio,Tradicional,53.0,33.0,1748.74
+TRX-1154,2025-02-16,Alimentos,Galletas Soda Sayón,Tradicional,47.0,19.82,931.48
+TRX-1155,2025-02-17,Alimentos,Fideos Don Vittorio,Tradicional,48.0,38.05,1826.3
+TRX-1156,2025-02-17,Cuidado Personal,Desodorante Mirror Dry,Tradicional,54.0,13.56,732.32
+TRX-1157,2025-02-17,Cuidado del Hogar,Lavatodo Sapolio,Mayorista,45.0,24.03,1081.22
+TRX-1158,2025-02-17,Cuidado del Hogar,Detergente Bolívar,Tradicional,41.0,37.14,1522.62
+TRX-1159,2025-02-18,Alimentos,Fideos Don Vittorio,Tradicional,51.0,12.62,643.43
+TRX-1160,2025-02-18,Alimentos,Galletas Soda Sayón,Tradicional,1531.0,9.84,15065.039999999999
+TRX-1161,2025-02-18,Cuidado Personal,Desodorante Mirror Dry,Mayorista,47.0,40.41,1899.06
+TRX-1162,2025-02-19,Alimentos,Aceite Primor Premium,Tradicional,47.0,19.05,895.15
+TRX-1163,2025-02-19,Cuidado del Hogar,Lavatodo Sapolio,Tradicional,39.0,32.51,1268.0
+TRX-1164,2025-02-19,Cuidado del Hogar,Lavatodo Sapolio,Tradicional,35.0,6.5,227.54
+TRX-1165,2025-02-20,Cuidado del Hogar,Detergente Bolívar,Moderno,45.0,32.76,1474.06
+TRX-1166,2025-02-20,Cuidado del Hogar,Lavatodo Sapolio,Tradicional,60.0,17.99,1079.16
+TRX-1167,2025-02-20,Alimentos,Fideos Don Vittorio,Moderno,,7.7,385.09
+TRX-1168,2025-02-21,Alimentos,Galletas Soda Sayón,Tradicional,48.0,29.59,1420.2
+TRX-1169,2025-02-21,Cuidado del Hogar,Lavatodo Sapolio,Tradicional,40.0,15.01,600.47
+TRX-1170,2025-02-21,Cuidado del Hogar,Lavatodo Sapolio,Tradicional,44.0,20.78,914.27
+TRX-1171,2025-02-21,Alimentos,Aceite Primor Premium,Tradicional,37.0,8.68,321.27
+TRX-1172,2025-02-22,Alimentos,Aceite Primor Premium,Tradicional,45.0,11.31,509.08
+TRX-1173,2025-02-22,Cuidado Personal,Jabón Fresh Menta,Tradicional,47.0,17.27,811.69
+TRX-1174,2025-02-22,Cuidado Personal,Desodorante Mirror Dry,Moderno,39.0,9.05,352.77
+TRX-1175,2025-02-23,Alimentos,Fideos Don Vittorio,Tradicional,39.0,41.48,1617.63
+TRX-1176,2025-02-23,Cuidado del Hogar,Lavatodo Sapolio,Tradicional,35.0,5.74,200.86
+TRX-1177,2025-02-23,Cuidado del Hogar,Lavatodo Sapolio,Tradicional,52.0,24.61,1279.85
+TRX-1178,2025-02-24,Alimentos,Galletas Soda Sayón,Tradicional,45.0,10.37,466.57
+TRX-1179,2025-02-24,Cuidado Personal,Jabón Fresh Menta,Tradicional,58.0,17.65,1023.89
+TRX-1180,2025-02-24,Cuidado Personal,Desodorante Mirror Dry,Tradicional,34.0,42.08,1430.7
+TRX-1181,2025-02-24,Cuidado Personal,Jabón Fresh Menta,Tradicional,35.0,11.89,416.04
+TRX-1182,2025-02-25,Cuidado del Hogar,Detergente Bolívar,Moderno,45.0,43.65,1964.27
+TRX-1183,2025-02-25,Cuidado Personal,Desodorante Mirror Dry,Mayorista,45.0,13.63,613.3
+TRX-1184,2025-02-25,Cuidado del Hogar,Lavatodo Sapolio,,40.0,34.79,1391.67
+TRX-1185,2025-02-26,Cuidado del Hogar,Lavatodo Sapolio,Tradicional,43.0,27.09,1165.03
+TRX-1186,2025-02-26,Cuidado Personal,Desodorante Mirror Dry,Tradicional,56.0,40.44,2264.47
+TRX-1187,2025-02-26,Cuidado del Hogar,Lavatodo Sapolio,Tradicional,47.0,27.38,1286.99
+TRX-1188,2025-02-27,Alimentos,Fideos Don Vittorio,Tradicional,52.0,26.62,1383.98
+TRX-1189,2025-02-27,Cuidado Personal,Desodorante Mirror Dry,Tradicional,48.0,13.22,634.59
+TRX-1190,2025-02-27,Cuidado Personal,Jabón Fresh Menta,Moderno,40.0,12.07,482.64
+TRX-1191,2025-02-27,Cuidado Personal,Desodorante Mirror Dry,Tradicional,47.0,41.7,1959.96
+TRX-1192,2025-02-28,Cuidado del Hogar,Lavatodo Sapolio,Tradicional,35.0,18.45,645.74
+TRX-1193,2025-02-28,Alimentos,Fideos Don Vittorio,Tradicional,44.0,20.2,888.68
+TRX-1194,2025-02-28,Alimentos,Fideos Don Vittorio,Tradicional,36.0,35.51,1278.47
+TRX-1195,2025-03-01,Cuidado del Hogar,Detergente Bolívar,Tradicional,50.0,18.88,944.18
+TRX-1196,2025-03-01,Cuidado Personal,Jabón Fresh Menta,Tradicional,33.0,43.11,1422.51
+TRX-1197,2025-03-01,Alimentos,Aceite Primor Premium,Tradicional,59.0,34.65,2044.24
+TRX-1198,2025-03-02,Alimentos,Aceite Primor Premium,Moderno,49.0,29.1,1425.82
+TRX-1199,2025-03-02,Cuidado Personal,Desodorante Mirror Dry,Tradicional,47.0,40.3,1893.88
+TRX-1200,2025-03-02,Cuidado del Hogar,Detergente Bolívar,Tradicional,1054.0,7.46,7862.84
+TRX-1201,2025-03-03,Alimentos,Galletas Soda Sayón,Tradicional,50.0,15.65,782.7
+TRX-1202,2025-03-03,Cuidado Personal,Desodorante Mirror Dry,Tradicional,55.0,23.87,1312.79
+TRX-1203,2025-03-03,Cuidado del Hogar,Detergente Bolívar,Tradicional,46.0,14.47,665.42
+TRX-1204,2025-03-03,Cuidado Personal,Jabón Fresh Menta,Moderno,41.0,34.88,1430.25
+TRX-1205,2025-03-04,Cuidado Personal,Jabón Fresh Menta,Moderno,46.0,41.81,1923.2
+TRX-1206,2025-03-04,Cuidado Personal,Jabón Fresh Menta,Moderno,,22.24,800.6
+TRX-1207,2025-03-04,Cuidado Personal,Jabón Fresh Menta,Tradicional,42.0,19.01,798.6
+TRX-1208,2025-03-05,Cuidado Personal,Jabón Fresh Menta,Tradicional,48.0,43.48,2087.1
+TRX-1209,2025-03-05,Cuidado del Hogar,Detergente Bolívar,Tradicional,49.0,23.07,1130.51
+TRX-1210,2025-03-05,Cuidado del Hogar,Detergente Bolívar,Tradicional,48.0,24.82,1191.24
+TRX-1211,2025-03-06,Alimentos,Fideos Don Vittorio,Moderno,41.0,19.39,795.0
+TRX-1212,2025-03-06,Alimentos,Aceite Primor Premium,Tradicional,44.0,41.43,1822.8
+TRX-1213,2025-03-06,Cuidado del Hogar,Lavatodo Sapolio,Tradicional,56.0,27.97,1566.53
+TRX-1214,2025-03-06,Cuidado Personal,Jabón Fresh Menta,Tradicional,41.0,35.61,1459.84
+TRX-1215,2025-03-07,Alimentos,Galletas Soda Sayón,Tradicional,42.0,37.57,1577.79
+TRX-1216,2025-03-07,Cuidado del Hogar,Lavatodo Sapolio,Tradicional,49.0,19.0,931.15
+TRX-1217,2025-03-07,Cuidado del Hogar,Detergente Bolívar,Tradicional,42.0,22.63,950.5
+TRX-1218,2025-03-08,Alimentos,Galletas Soda Sayón,Tradicional,44.0,39.01,1716.64
+TRX-1219,2025-03-08,Alimentos,Galletas Soda Sayón,Moderno,55.0,19.85,1091.67
+TRX-1220,2025-03-08,Alimentos,Galletas Soda Sayón,Moderno,37.0,36.86,1363.84
+TRX-1221,2025-03-09,Alimentos,Fideos Don Vittorio,Tradicional,48.0,42.67,2048.12
+TRX-1222,2025-03-09,Cuidado del Hogar,Detergente Bolívar,Tradicional,42.0,30.12,1264.91
+TRX-1223,2025-03-09,Alimentos,Galletas Soda Sayón,Tradicional,43.0,34.79,1496.15
+TRX-1224,2025-03-10,Cuidado Personal,Jabón Fresh Menta,Tradicional,49.0,37.3,1827.77
+TRX-1225,2025-03-10,Cuidado Personal,Desodorante Mirror Dry,Tradicional,42.0,38.88,1632.92
+TRX-1226,2025-03-10,Alimentos,Galletas Soda Sayón,Tradicional,49.0,21.1,1034.13
+TRX-1227,2025-03-10,Alimentos,Fideos Don Vittorio,Tradicional,45.0,7.52,338.62
+TRX-1228,2025-03-11,Cuidado del Hogar,Lavatodo Sapolio,Tradicional,43.0,21.37,919.09
+TRX-1229,2025-03-11,Cuidado del Hogar,Detergente Bolívar,Tradicional,996.0,32.11,31981.559999999998
+TRX-1230,2025-03-11,Alimentos,Fideos Don Vittorio,Tradicional,50.0,23.29,1164.44
+TRX-1231,2025-03-12,Alimentos,Galletas Soda Sayón,Mayorista,41.0,35.08,1438.45
+TRX-1232,2025-03-12,Cuidado del Hogar,Detergente Bolívar,Moderno,36.0,19.6,705.63
+TRX-1233,2025-03-12,Cuidado Personal,Desodorante Mirror Dry,Tradicional,41.0,30.57,1253.47
+TRX-1234,2025-03-13,Alimentos,Galletas Soda Sayón,Moderno,47.0,12.86,604.59
+TRX-1235,2025-03-13,Alimentos,Fideos Don Vittorio,Tradicional,62.0,35.1,2176.21
+TRX-1236,2025-03-13,Alimentos,Aceite Primor Premium,Moderno,43.0,27.05,1163.36
+TRX-1237,2025-03-13,Cuidado Personal,Jabón Fresh Menta,Moderno,46.0,13.56,623.78
+TRX-1238,2025-03-14,Cuidado del Hogar,Lavatodo Sapolio,Tradicional,46.0,17.03,783.4
+TRX-1239,2025-03-14,Alimentos,Fideos Don Vittorio,Tradicional,50.0,35.07,1753.5
+TRX-1240,2025-03-14,Cuidado del Hogar,Detergente Bolívar,Tradicional,44.0,24.56,1080.76
+TRX-1241,2025-03-15,Alimentos,Galletas Soda Sayón,Tradicional,40.0,14.03,561.33
+TRX-1242,2025-03-15,Cuidado Personal,Jabón Fresh Menta,Tradicional,31.0,43.71,1354.92
+TRX-1243,2025-03-15,Alimentos,Galletas Soda Sayón,Tradicional,46.0,33.75,1552.38
+TRX-1244,2025-03-16,Cuidado del Hogar,Detergente Bolívar,Tradicional,47.0,43.31,2035.42
+TRX-1245,2025-03-16,Alimentos,Galletas Soda Sayón,Moderno,44.0,22.37,984.31
+TRX-1246,2025-03-16,Alimentos,Aceite Primor Premium,Mayorista,,24.27,1091.99
+TRX-1247,2025-03-16,Cuidado Personal,Jabón Fresh Menta,Tradicional,,40.97,1925.55
+TRX-1248,2025-03-17,Cuidado Personal,Jabón Fresh Menta,Tradicional,47.0,26.24,1233.25
+TRX-1249,2025-03-17,Cuidado del Hogar,Detergente Bolívar,,43.0,33.44,1437.81
+TRX-1250,2025-03-17,Cuidado del Hogar,Lavatodo Sapolio,Tradicional,44.0,15.46,680.28
+TRX-1251,2025-03-18,Alimentos,Aceite Primor Premium,Mayorista,56.0,23.15,1296.16
+TRX-1252,2025-03-18,Alimentos,Fideos Don Vittorio,Tradicional,46.0,10.38,477.31
+TRX-1253,2025-03-18,Alimentos,Galletas Soda Sayón,Tradicional,36.0,13.64,490.9
+TRX-1254,2025-03-19,Cuidado Personal,Desodorante Mirror Dry,Tradicional,36.0,5.54,199.34
+TRX-1255,2025-03-19,Alimentos,Galletas Soda Sayón,Tradicional,40.0,7.05,282.04
+TRX-1256,2025-03-19,Alimentos,Galletas Soda Sayón,Tradicional,59.0,44.1,2602.06
+TRX-1257,2025-03-20,Alimentos,Fideos Don Vittorio,Moderno,45.0,15.07,678.28
+TRX-1258,2025-03-20,Alimentos,Galletas Soda Sayón,Tradicional,47.0,31.7,1489.94
+TRX-1259,2025-03-20,Alimentos,Aceite Primor Premium,Tradicional,41.0,38.64,1584.42
+TRX-1260,2025-03-20,Alimentos,Aceite Primor Premium,Tradicional,50.0,27.25,1362.55
+TRX-1261,2025-03-21,Cuidado Personal,Jabón Fresh Menta,,45.0,11.55,519.71
+TRX-1262,2025-03-21,Cuidado del Hogar,Detergente Bolívar,Moderno,,34.26,1575.99
+TRX-1263,2025-03-21,Cuidado del Hogar,Lavatodo Sapolio,Tradicional,52.0,29.21,1518.92
+TRX-1264,2025-03-22,Cuidado Personal,Desodorante Mirror Dry,Tradicional,46.0,34.38,1581.68
+TRX-1265,2025-03-22,Alimentos,Galletas Soda Sayón,Tradicional,38.0,35.9,1364.39
+TRX-1266,2025-03-22,Alimentos,Galletas Soda Sayón,Tradicional,53.0,44.03,2333.52
+TRX-1267,2025-03-23,Alimentos,Fideos Don Vittorio,Mayorista,,28.16,1238.85
+TRX-1268,2025-03-23,Cuidado del Hogar,Detergente Bolívar,Tradicional,47.0,18.99,892.76
+TRX-1269,2025-03-23,Alimentos,Aceite Primor Premium,Tradicional,49.0,31.11,1524.6
+TRX-1270,2025-03-23,Cuidado Personal,Desodorante Mirror Dry,Tradicional,49.0,8.2,401.97
+TRX-1271,2025-03-24,Cuidado Personal,Jabón Fresh Menta,Tradicional,41.0,40.95,1678.83
+TRX-1272,2025-03-24,Alimentos,Aceite Primor Premium,Tradicional,52.0,10.22,531.21
+TRX-1273,2025-03-24,Cuidado del Hogar,Detergente Bolívar,Moderno,49.0,18.45,904.04
+TRX-1274,2025-03-25,Cuidado del Hogar,Lavatodo Sapolio,Tradicional,41.0,37.72,1546.6
+TRX-1275,2025-03-25,Cuidado Personal,Jabón Fresh Menta,Tradicional,50.0,29.09,1454.69
+TRX-1276,2025-03-25,Cuidado del Hogar,Lavatodo Sapolio,Tradicional,50.0,21.05,1052.43
+TRX-1277,2025-03-26,Alimentos,Fideos Don Vittorio,Tradicional,50.0,24.2,1210.04
+TRX-1278,2025-03-26,Alimentos,Fideos Don Vittorio,Tradicional,48.0,39.25,1884.22
+TRX-1279,2025-03-26,Alimentos,Galletas Soda Sayón,Tradicional,53.0,18.93,1003.3
+TRX-1280,2025-03-27,Cuidado del Hogar,Lavatodo Sapolio,Moderno,34.0,39.85,1354.94
+TRX-1281,2025-03-27,Cuidado del Hogar,Detergente Bolívar,Tradicional,33.0,8.98,296.38
+TRX-1282,2025-03-27,Cuidado Personal,Desodorante Mirror Dry,Tradicional,43.0,36.18,1555.89
+TRX-1283,2025-03-27,Cuidado Personal,Jabón Fresh Menta,Tradicional,42.0,38.98,1637.08
+TRX-1284,2025-03-28,Alimentos,Aceite Primor Premium,Tradicional,45.0,12.68,570.68
+TRX-1285,2025-03-28,Cuidado del Hogar,Detergente Bolívar,Mayorista,33.0,22.5,742.46
+TRX-1286,2025-03-28,Cuidado del Hogar,Detergente Bolívar,Moderno,51.0,12.04,613.9
+TRX-1287,2025-03-29,Alimentos,Fideos Don Vittorio,Tradicional,30.0,33.41,1002.33
+TRX-1288,2025-03-29,Cuidado del Hogar,Lavatodo Sapolio,Tradicional,43.0,26.65,1145.79
+TRX-1289,2025-03-29,Alimentos,Galletas Soda Sayón,Tradicional,39.0,30.6,1193.22
+TRX-1290,2025-03-30,Alimentos,Galletas Soda Sayón,Tradicional,43.0,13.26,570.23
+TRX-1291,2025-03-30,Cuidado Personal,Jabón Fresh Menta,Tradicional,41.0,13.86,568.42
+TRX-1292,2025-03-30,Alimentos,Fideos Don Vittorio,Tradicional,39.0,7.14,278.43
+TRX-1293,2025-03-30,Cuidado del Hogar,Detergente Bolívar,Tradicional,42.0,18.22,765.31
+TRX-1294,2025-03-31,Cuidado Personal,Desodorante Mirror Dry,Tradicional,36.0,27.61,993.96
+TRX-1295,2025-03-31,Alimentos,Fideos Don Vittorio,Moderno,45.0,39.39,1772.48
+TRX-1296,2025-03-31,Cuidado Personal,Jabón Fresh Menta,Tradicional,47.0,31.84,1496.65
+TRX-1297,2025-04-01,Cuidado Personal,Jabón Fresh Menta,Tradicional,33.0,22.7,749.04
+TRX-1298,2025-04-01,Alimentos,Fideos Don Vittorio,Moderno,39.0,43.15,1682.78
+TRX-1299,2025-04-01,Cuidado Personal,Jabón Fresh Menta,Tradicional,52.0,33.91,1763.33
+TRX-1300,2025-04-02,Alimentos,Fideos Don Vittorio,Moderno,,42.24,1943.11
+TRX-1301,2025-04-02,Alimentos,Aceite Primor Premium,Tradicional,37.0,26.34,974.57
+TRX-1302,2025-04-02,Alimentos,Fideos Don Vittorio,Tradicional,40.0,15.73,629.07
+TRX-1303,2025-04-02,Cuidado del Hogar,Lavatodo Sapolio,Moderno,40.0,7.59,303.47
+TRX-1304,2025-04-03,Alimentos,Fideos Don Vittorio,Moderno,48.0,34.18,1640.66
+TRX-1305,2025-04-03,Cuidado Personal,Jabón Fresh Menta,Moderno,,10.29,514.57
+TRX-1306,2025-04-03,Cuidado del Hogar,Lavatodo Sapolio,Tradicional,,17.46,506.33
+TRX-1307,2025-04-04,Cuidado Personal,Jabón Fresh Menta,Tradicional,49.0,26.53,1300.1
+TRX-1308,2025-04-04,Alimentos,Galletas Soda Sayón,Tradicional,53.0,27.79,1473.11
+TRX-1309,2025-04-04,Alimentos,Galletas Soda Sayón,Tradicional,40.0,29.22,1168.92
+TRX-1310,2025-04-05,Cuidado del Hogar,Lavatodo Sapolio,Mayorista,41.0,12.07,494.75
+TRX-1311,2025-04-05,Alimentos,Aceite Primor Premium,Tradicional,42.0,20.5,860.98
+TRX-1312,2025-04-05,Alimentos,Galletas Soda Sayón,Mayorista,53.0,29.88,1583.6
+TRX-1313,2025-04-06,Alimentos,Fideos Don Vittorio,Tradicional,44.0,43.81,1927.55
+TRX-1314,2025-04-06,Cuidado Personal,Jabón Fresh Menta,Tradicional,1866.0,34.24,63891.840000000004
+TRX-1315,2025-04-06,Alimentos,Galletas Soda Sayón,Tradicional,45.0,41.94,1887.43
+TRX-1316,2025-04-06,Alimentos,Galletas Soda Sayón,Moderno,48.0,35.61,1709.15
+TRX-1317,2025-04-07,Alimentos,Aceite Primor Premium,Moderno,49.0,28.87,1414.77
+TRX-1318,2025-04-07,Cuidado del Hogar,Lavatodo Sapolio,Moderno,60.0,13.08,785.1
+TRX-1319,2025-04-07,Cuidado del Hogar,Lavatodo Sapolio,Tradicional,41.0,31.83,1305.2
+TRX-1320,2025-04-08,Cuidado del Hogar,Detergente Bolívar,Moderno,51.0,30.12,1536.3
+TRX-1321,2025-04-08,Alimentos,Aceite Primor Premium,Moderno,30.0,29.3,878.93
+TRX-1322,2025-04-08,Alimentos,Fideos Don Vittorio,Tradicional,61.0,24.85,1515.64
+TRX-1323,2025-04-09,Cuidado del Hogar,Lavatodo Sapolio,Tradicional,44.0,26.38,1160.81
+TRX-1324,2025-04-09,Cuidado Personal,Jabón Fresh Menta,Tradicional,,18.71,729.71
+TRX-1325,2025-04-09,Alimentos,Aceite Primor Premium,Mayorista,42.0,26.01,1092.54
+TRX-1326,2025-04-09,Alimentos,Galletas Soda Sayón,Mayorista,51.0,13.3,678.48
+TRX-1327,2025-04-10,Cuidado Personal,Jabón Fresh Menta,Tradicional,39.0,37.3,1454.87
+TRX-1328,2025-04-10,Cuidado Personal,Jabón Fresh Menta,Moderno,44.0,12.84,564.88
+TRX-1329,2025-04-10,Alimentos,Galletas Soda Sayón,Mayorista,,8.86,345.39
+TRX-1330,2025-04-11,Alimentos,Aceite Primor Premium,Tradicional,47.0,22.73,1068.39
+TRX-1331,2025-04-11,Alimentos,Galletas Soda Sayón,Tradicional,36.0,31.5,1134.11
+TRX-1332,2025-04-11,Cuidado del Hogar,Detergente Bolívar,Mayorista,50.0,22.79,1139.49
+TRX-1333,2025-04-12,Cuidado Personal,Jabón Fresh Menta,Tradicional,48.0,16.43,788.73
+TRX-1334,2025-04-12,Cuidado Personal,Desodorante Mirror Dry,Moderno,49.0,27.55,1349.84
+TRX-1335,2025-04-12,Cuidado Personal,Desodorante Mirror Dry,Tradicional,55.0,19.21,1056.36
+TRX-1336,2025-04-13,Alimentos,Fideos Don Vittorio,Mayorista,42.0,42.35,1778.63
+TRX-1337,2025-04-13,Cuidado del Hogar,Lavatodo Sapolio,Mayorista,35.0,41.94,1468.06
+TRX-1338,2025-04-13,Alimentos,Galletas Soda Sayón,Mayorista,40.0,25.34,1013.75
+TRX-1339,2025-04-13,Alimentos,Galletas Soda Sayón,,42.0,18.45,774.96
+TRX-1340,2025-04-14,Alimentos,Fideos Don Vittorio,Moderno,36.0,34.62,1246.2
+TRX-1341,2025-04-14,Alimentos,Fideos Don Vittorio,Moderno,,6.95,312.76
+TRX-1342,2025-04-14,Alimentos,Fideos Don Vittorio,Tradicional,46.0,24.25,1115.66
+TRX-1343,2025-04-15,Cuidado Personal,Jabón Fresh Menta,Moderno,63.0,18.78,1183.44
+TRX-1344,2025-04-15,Cuidado del Hogar,Detergente Bolívar,Tradicional,49.0,41.86,2051.2
+TRX-1345,2025-04-15,Alimentos,Galletas Soda Sayón,Tradicional,51.0,5.97,304.68
+TRX-1346,2025-04-16,Cuidado Personal,Jabón Fresh Menta,Tradicional,36.0,27.34,984.1
+TRX-1347,2025-04-16,Alimentos,Fideos Don Vittorio,Tradicional,36.0,34.76,1251.22
+TRX-1348,2025-04-16,Alimentos,Galletas Soda Sayón,Tradicional,51.0,24.66,1257.57
+TRX-1349,2025-04-16,Cuidado Personal,Jabón Fresh Menta,Moderno,42.0,8.87,372.68
+TRX-1350,2025-04-17,Cuidado del Hogar,Detergente Bolívar,Tradicional,53.0,43.91,2327.35
+TRX-1351,2025-04-17,Cuidado Personal,Jabón Fresh Menta,Moderno,55.0,25.96,1427.88
+TRX-1352,2025-04-17,Cuidado del Hogar,Detergente Bolívar,Tradicional,51.0,29.76,1517.78
+TRX-1353,2025-04-18,Alimentos,Fideos Don Vittorio,Tradicional,43.0,14.85,638.38
+TRX-1354,2025-04-18,Cuidado del Hogar,Detergente Bolívar,Tradicional,32.0,24.6,787.14
+TRX-1355,2025-04-18,Alimentos,Galletas Soda Sayón,Moderno,40.0,22.45,898.06
+TRX-1356,2025-04-19,Alimentos,Fideos Don Vittorio,Tradicional,50.0,8.46,422.92
+TRX-1357,2025-04-19,Alimentos,Galletas Soda Sayón,Tradicional,59.0,9.69,571.91
+TRX-1358,2025-04-19,Cuidado Personal,Desodorante Mirror Dry,Moderno,63.0,38.58,2430.55
+TRX-1359,2025-04-19,Alimentos,Aceite Primor Premium,Tradicional,42.0,14.97,628.86
+TRX-1360,2025-04-20,Cuidado del Hogar,Detergente Bolívar,Tradicional,38.0,13.2,501.63
+TRX-1361,2025-04-20,Alimentos,Aceite Primor Premium,Tradicional,47.0,25.44,1195.87
+TRX-1362,2025-04-20,Alimentos,Aceite Primor Premium,,46.0,35.87,1649.81
+TRX-1363,2025-04-21,Cuidado del Hogar,Detergente Bolívar,Tradicional,52.0,7.95,413.24
+TRX-1364,2025-04-21,Alimentos,Fideos Don Vittorio,Moderno,43.0,28.28,1216.21
+TRX-1365,2025-04-21,Cuidado Personal,Desodorante Mirror Dry,Tradicional,40.0,10.21,408.35
+TRX-1366,2025-04-22,Alimentos,Galletas Soda Sayón,Mayorista,56.0,6.94,388.65
+TRX-1367,2025-04-22,Cuidado Personal,Jabón Fresh Menta,Moderno,44.0,7.58,333.67
+TRX-1368,2025-04-22,Alimentos,Galletas Soda Sayón,Mayorista,49.0,38.45,1884.02
+TRX-1369,2025-04-23,Cuidado Personal,Jabón Fresh Menta,Tradicional,,10.16,375.92
+TRX-1370,2025-04-23,Alimentos,Galletas Soda Sayón,,48.0,7.28,349.61
+TRX-1371,2025-04-23,Cuidado del Hogar,Detergente Bolívar,Tradicional,46.0,22.8,1048.66
+TRX-1372,2025-04-23,Cuidado Personal,Desodorante Mirror Dry,Tradicional,45.0,38.84,1747.7
+TRX-1373,2025-04-24,Cuidado Personal,Jabón Fresh Menta,Tradicional,33.0,15.87,523.55
+TRX-1374,2025-04-24,Cuidado del Hogar,Lavatodo Sapolio,Moderno,52.0,22.16,1152.2
+TRX-1375,2025-04-24,Alimentos,Fideos Don Vittorio,Mayorista,46.0,7.08,325.54
+TRX-1376,2025-04-25,Alimentos,Galletas Soda Sayón,Moderno,29.0,23.24,673.92
+TRX-1377,2025-04-25,Alimentos,Galletas Soda Sayón,Tradicional,44.0,28.32,1245.89
+TRX-1378,2025-04-25,Cuidado Personal,Jabón Fresh Menta,Tradicional,53.0,28.05,1486.69
+TRX-1379,2025-04-26,Alimentos,Fideos Don Vittorio,Moderno,62.0,18.63,1155.11
+TRX-1380,2025-04-26,Alimentos,Fideos Don Vittorio,Tradicional,46.0,17.96,826.32
+TRX-1381,2025-04-26,Cuidado del Hogar,Detergente Bolívar,Tradicional,44.0,9.71,427.31
+TRX-1382,2025-04-26,Cuidado del Hogar,Lavatodo Sapolio,Tradicional,33.0,19.99,659.62
+TRX-1383,2025-04-27,Cuidado del Hogar,Detergente Bolívar,Tradicional,50.0,9.43,471.5
+TRX-1384,2025-04-27,Cuidado del Hogar,Detergente Bolívar,Tradicional,44.0,35.78,1574.34
+TRX-1385,2025-04-27,Cuidado del Hogar,Detergente Bolívar,Tradicional,40.0,43.67,1746.71
+TRX-1386,2025-04-28,Cuidado del Hogar,Detergente Bolívar,Tradicional,48.0,43.82,2103.26
+TRX-1387,2025-04-28,Cuidado del Hogar,Detergente Bolívar,Tradicional,46.0,39.67,1824.83
+TRX-1388,2025-04-28,Cuidado Personal,Desodorante Mirror Dry,Mayorista,45.0,29.23,1315.41
+TRX-1389,2025-04-29,Alimentos,Fideos Don Vittorio,Tradicional,57.0,33.18,1891.5
+TRX-1390,2025-04-29,Cuidado del Hogar,Detergente Bolívar,Tradicional,48.0,16.77,804.75
+TRX-1391,2025-04-29,Alimentos,Fideos Don Vittorio,Tradicional,41.0,30.42,1247.03
+TRX-1392,2025-04-30,Alimentos,Fideos Don Vittorio,Tradicional,50.0,23.5,1174.91
+TRX-1393,2025-04-30,Alimentos,Aceite Primor Premium,Mayorista,44.0,24.54,1079.75
+TRX-1394,2025-04-30,Cuidado Personal,Desodorante Mirror Dry,Moderno,45.0,35.43,1594.45
+TRX-1395,2025-04-30,Cuidado del Hogar,Detergente Bolívar,Tradicional,36.0,16.64,598.89
+TRX-1396,2025-05-01,Alimentos,Galletas Soda Sayón,Tradicional,43.0,18.06,776.69
+TRX-1397,2025-05-01,Cuidado Personal,Jabón Fresh Menta,Moderno,50.0,42.02,2101.17
+TRX-1398,2025-05-01,Cuidado del Hogar,Lavatodo Sapolio,Mayorista,43.0,7.72,332.0
+TRX-1399,2025-05-02,Alimentos,Galletas Soda Sayón,Tradicional,56.0,24.68,1382.22
+TRX-1400,2025-05-02,Cuidado Personal,Desodorante Mirror Dry,Tradicional,46.0,41.56,1911.56
+TRX-1401,2025-05-02,Cuidado Personal,Jabón Fresh Menta,Tradicional,51.0,29.61,1510.08
+TRX-1402,2025-05-03,Cuidado Personal,Desodorante Mirror Dry,Mayorista,46.0,27.08,1245.82
+TRX-1403,2025-05-03,Alimentos,Fideos Don Vittorio,Tradicional,48.0,15.36,737.51
+TRX-1404,2025-05-03,Cuidado Personal,Jabón Fresh Menta,Mayorista,35.0,19.06,667.08
+TRX-1405,2025-05-03,Alimentos,Fideos Don Vittorio,Tradicional,39.0,39.16,1527.08
+TRX-1406,2025-05-04,Alimentos,Galletas Soda Sayón,Tradicional,27.0,27.59,744.91
+TRX-1407,2025-05-04,Alimentos,Galletas Soda Sayón,Tradicional,54.0,25.83,1394.95
+TRX-1408,2025-05-04,Cuidado Personal,Jabón Fresh Menta,Tradicional,60.0,9.43,566.0
+TRX-1409,2025-05-05,Cuidado Personal,Jabón Fresh Menta,Tradicional,44.0,6.13,269.86
+TRX-1410,2025-05-05,Cuidado del Hogar,Detergente Bolívar,Tradicional,,43.57,1960.45
+TRX-1411,2025-05-05,Cuidado Personal,Desodorante Mirror Dry,Tradicional,40.0,20.39,815.64
+TRX-1412,2025-05-06,Cuidado del Hogar,Detergente Bolívar,Moderno,55.0,29.33,1612.98
+TRX-1413,2025-05-06,Cuidado Personal,Desodorante Mirror Dry,Tradicional,51.0,8.65,441.09
+TRX-1414,2025-05-06,Cuidado del Hogar,Detergente Bolívar,Tradicional,45.0,32.48,1461.74
+TRX-1415,2025-05-06,Alimentos,Fideos Don Vittorio,Mayorista,47.0,42.34,1989.81
+TRX-1416,2025-05-07,Cuidado Personal,Jabón Fresh Menta,Moderno,42.0,28.24,1186.03
+TRX-1417,2025-05-07,Alimentos,Galletas Soda Sayón,Mayorista,39.0,10.48,408.78
+TRX-1418,2025-05-07,Cuidado Personal,Desodorante Mirror Dry,Mayorista,45.0,28.48,1281.51
+TRX-1419,2025-05-08,Cuidado Personal,Desodorante Mirror Dry,Tradicional,42.0,35.77,1502.37
+TRX-1420,2025-05-08,Alimentos,Galletas Soda Sayón,Tradicional,51.0,21.55,1099.23
+TRX-1421,2025-05-08,Cuidado del Hogar,Detergente Bolívar,Moderno,37.0,40.25,1489.38
+TRX-1422,2025-05-09,Cuidado Personal,Desodorante Mirror Dry,Moderno,46.0,31.12,1431.66
+TRX-1423,2025-05-09,Cuidado del Hogar,Lavatodo Sapolio,Tradicional,43.0,41.02,1763.87
+TRX-1424,2025-05-09,Alimentos,Fideos Don Vittorio,Moderno,,30.13,1084.62
+TRX-1425,2025-05-10,Cuidado Personal,Jabón Fresh Menta,Tradicional,45.0,10.69,480.86
+TRX-1426,2025-05-10,Alimentos,Galletas Soda Sayón,Tradicional,41.0,17.73,727.05
+TRX-1427,2025-05-10,Cuidado Personal,Jabón Fresh Menta,Tradicional,39.0,13.47,525.37
+TRX-1428,2025-05-10,Cuidado del Hogar,Lavatodo Sapolio,Tradicional,39.0,41.4,1614.55
+TRX-1429,2025-05-11,Cuidado Personal,Desodorante Mirror Dry,Tradicional,,35.54,1776.79
+TRX-1430,2025-05-11,Cuidado Personal,Desodorante Mirror Dry,Tradicional,43.0,32.22,1385.36
+TRX-1431,2025-05-11,Cuidado del Hogar,Lavatodo Sapolio,Moderno,41.0,17.39,712.91
+TRX-1432,2025-05-12,Alimentos,Galletas Soda Sayón,Tradicional,52.0,12.77,664.03
+TRX-1433,2025-05-12,Alimentos,Fideos Don Vittorio,Tradicional,42.0,35.38,1485.95
+TRX-1434,2025-05-12,Alimentos,Aceite Primor Premium,Moderno,50.0,24.23,1211.46
+TRX-1435,2025-05-13,Alimentos,Galletas Soda Sayón,Mayorista,47.0,14.42,677.68
+TRX-1436,2025-05-13,Alimentos,Aceite Primor Premium,Moderno,33.0,29.86,985.27
+TRX-1437,2025-05-13,Cuidado del Hogar,Lavatodo Sapolio,Moderno,49.0,7.09,347.57
+TRX-1438,2025-05-13,Cuidado del Hogar,Detergente Bolívar,Tradicional,51.0,18.38,937.57
+TRX-1439,2025-05-14,Alimentos,Aceite Primor Premium,Tradicional,60.0,24.01,1440.48
+TRX-1440,2025-05-14,Alimentos,Fideos Don Vittorio,Tradicional,40.0,11.34,453.77
+TRX-1441,2025-05-14,Cuidado del Hogar,Detergente Bolívar,Tradicional,41.0,44.39,1820.15
+TRX-1442,2025-05-15,Alimentos,Aceite Primor Premium,Tradicional,50.0,13.76,687.97
+TRX-1443,2025-05-15,Cuidado del Hogar,Lavatodo Sapolio,Tradicional,45.0,10.65,479.2
+TRX-1444,2025-05-15,Cuidado del Hogar,Detergente Bolívar,Moderno,42.0,13.54,568.66
+TRX-1445,2025-05-16,Cuidado del Hogar,Lavatodo Sapolio,Tradicional,52.0,35.88,1865.65
+TRX-1446,2025-05-16,Alimentos,Aceite Primor Premium,Tradicional,49.0,22.31,1093.07
+TRX-1447,2025-05-16,Cuidado del Hogar,Lavatodo Sapolio,Tradicional,57.0,27.83,1586.53
+TRX-1448,2025-05-17,Alimentos,Fideos Don Vittorio,Moderno,40.0,6.33,253.19
+TRX-1449,2025-05-17,Alimentos,Aceite Primor Premium,Tradicional,38.0,6.86,260.68
+TRX-1450,2025-05-17,Alimentos,Aceite Primor Premium,Moderno,42.0,23.11,970.62
+TRX-1451,2025-05-17,Alimentos,Aceite Primor Premium,Tradicional,53.0,37.76,2001.17
+TRX-1452,2025-05-18,Alimentos,Galletas Soda Sayón,,50.0,40.47,2023.35
+TRX-1453,2025-05-18,Alimentos,Galletas Soda Sayón,Tradicional,59.0,8.92,526.57
+TRX-1454,2025-05-18,Alimentos,Galletas Soda Sayón,Moderno,43.0,26.77,1150.91
+TRX-1455,2025-05-19,Alimentos,Fideos Don Vittorio,Tradicional,51.0,41.57,2120.2
+TRX-1456,2025-05-19,Cuidado del Hogar,Detergente Bolívar,Tradicional,43.0,20.82,895.47
+TRX-1457,2025-05-19,Cuidado del Hogar,Lavatodo Sapolio,Tradicional,53.0,38.27,2028.2
+TRX-1458,2025-05-20,Cuidado Personal,Desodorante Mirror Dry,Tradicional,44.0,10.78,474.36
+TRX-1459,2025-05-20,Alimentos,Aceite Primor Premium,Moderno,49.0,42.45,2079.96
+TRX-1460,2025-05-20,Cuidado del Hogar,Lavatodo Sapolio,Moderno,,35.18,1055.44
+TRX-1461,2025-05-20,Alimentos,Aceite Primor Premium,Tradicional,49.0,42.68,2091.45
+TRX-1462,2025-05-21,Alimentos,Fideos Don Vittorio,Moderno,38.0,32.23,1224.6
+TRX-1463,2025-05-21,Alimentos,Aceite Primor Premium,Moderno,46.0,19.85,913.3
+TRX-1464,2025-05-21,Alimentos,Galletas Soda Sayón,Moderno,37.0,42.56,1574.65
+TRX-1465,2025-05-22,Cuidado Personal,Desodorante Mirror Dry,Moderno,41.0,16.38,671.78
+TRX-1466,2025-05-22,Cuidado Personal,Jabón Fresh Menta,Moderno,48.0,18.62,893.8
+TRX-1467,2025-05-22,Alimentos,Aceite Primor Premium,Moderno,40.0,33.18,1327.28
+TRX-1468,2025-05-23,Cuidado del Hogar,Lavatodo Sapolio,Tradicional,,35.73,1643.58
+TRX-1469,2025-05-23,Alimentos,Galletas Soda Sayón,Moderno,56.0,42.21,2363.84
+TRX-1470,2025-05-23,Cuidado Personal,Jabón Fresh Menta,Tradicional,48.0,13.59,652.31
+TRX-1471,2025-05-23,Cuidado Personal,Desodorante Mirror Dry,Moderno,46.0,37.02,1702.96
+TRX-1472,2025-05-24,Cuidado Personal,Jabón Fresh Menta,Moderno,41.0,34.67,1421.58
+TRX-1473,2025-05-24,Alimentos,Galletas Soda Sayón,Tradicional,47.0,8.02,376.93
+TRX-1474,2025-05-24,Cuidado del Hogar,Detergente Bolívar,Moderno,50.0,20.8,1039.77
+TRX-1475,2025-05-25,Cuidado del Hogar,Detergente Bolívar,Tradicional,41.0,16.67,683.44
+TRX-1476,2025-05-25,Cuidado Personal,Jabón Fresh Menta,Tradicional,1313.0,17.53,23016.890000000003
+TRX-1477,2025-05-25,Alimentos,Fideos Don Vittorio,Moderno,31.0,44.33,1374.12
+TRX-1478,2025-05-26,Cuidado del Hogar,Lavatodo Sapolio,Tradicional,59.0,30.89,1822.49
+TRX-1479,2025-05-26,Cuidado del Hogar,Lavatodo Sapolio,Moderno,48.0,33.85,1624.71
+TRX-1480,2025-05-26,Cuidado Personal,Jabón Fresh Menta,Moderno,38.0,44.08,1674.9
+TRX-1481,2025-05-27,Alimentos,Aceite Primor Premium,Tradicional,50.0,20.4,1019.97
+TRX-1482,2025-05-27,Alimentos,Aceite Primor Premium,Tradicional,40.0,37.17,1486.91
+TRX-1483,2025-05-27,Cuidado del Hogar,Lavatodo Sapolio,Tradicional,44.0,22.66,997.21
+TRX-1484,2025-05-27,Cuidado del Hogar,Lavatodo Sapolio,Tradicional,32.0,39.85,1275.09
+TRX-1485,2025-05-28,Cuidado del Hogar,Detergente Bolívar,Mayorista,35.0,12.64,442.26
+TRX-1486,2025-05-28,Alimentos,Fideos Don Vittorio,Tradicional,50.0,42.93,2146.68
+TRX-1487,2025-05-28,Alimentos,Galletas Soda Sayón,Tradicional,43.0,14.14,608.08
+TRX-1488,2025-05-29,Alimentos,Aceite Primor Premium,Tradicional,43.0,18.39,790.59
+TRX-1489,2025-05-29,Cuidado del Hogar,Lavatodo Sapolio,Tradicional,39.0,35.37,1379.41
+TRX-1490,2025-05-29,Cuidado del Hogar,Detergente Bolívar,Moderno,40.0,21.05,842.13
+TRX-1491,2025-05-30,Cuidado Personal,Desodorante Mirror Dry,Tradicional,,29.52,1387.64
+TRX-1492,2025-05-30,Cuidado del Hogar,Detergente Bolívar,Moderno,41.0,23.06,945.49
+TRX-1493,2025-05-30,Alimentos,Aceite Primor Premium,Tradicional,47.0,34.82,1636.71
+TRX-1494,2025-05-30,Alimentos,Aceite Primor Premium,Mayorista,48.0,14.52,696.92
+TRX-1495,2025-05-31,Cuidado del Hogar,Detergente Bolívar,Tradicional,40.0,7.81,312.36
+TRX-1496,2025-05-31,Alimentos,Galletas Soda Sayón,Tradicional,49.0,17.35,850.01
+TRX-1497,2025-05-31,Cuidado Personal,Jabón Fresh Menta,Mayorista,41.0,24.24,993.64
+TRX-1498,2025-06-01,Alimentos,Aceite Primor Premium,Tradicional,47.0,12.14,570.43
+TRX-1499,2025-06-01,Cuidado del Hogar,Detergente Bolívar,Mayorista,59.0,19.51,1151.36
+TRX-1500,2025-06-01,Cuidado del Hogar,Lavatodo Sapolio,Moderno,38.0,21.3,809.37
+TRX-1501,2025-06-02,Cuidado del Hogar,Detergente Bolívar,Tradicional,49.0,7.77,380.58
+TRX-1502,2025-06-02,Alimentos,Fideos Don Vittorio,Tradicional,43.0,28.54,1227.25
+TRX-1503,2025-06-02,Cuidado Personal,Jabón Fresh Menta,Moderno,47.0,40.43,1900.28
+TRX-1504,2025-06-03,Cuidado Personal,Desodorante Mirror Dry,,44.0,11.49,505.73
+TRX-1505,2025-06-03,Alimentos,Galletas Soda Sayón,Tradicional,43.0,29.11,1251.88
+TRX-1506,2025-06-03,Cuidado Personal,Desodorante Mirror Dry,Tradicional,38.0,31.76,1206.77
+TRX-1507,2025-06-03,Cuidado Personal,Jabón Fresh Menta,Tradicional,69.0,22.06,1522.4
+TRX-1508,2025-06-04,Cuidado Personal,Jabón Fresh Menta,Tradicional,34.0,33.19,1128.57
+TRX-1509,2025-06-04,Cuidado Personal,Jabón Fresh Menta,Moderno,56.0,21.72,1216.54
+TRX-1510,2025-06-04,Cuidado Personal,Desodorante Mirror Dry,Mayorista,40.0,25.43,1017.33
+TRX-1511,2025-06-05,Cuidado del Hogar,Lavatodo Sapolio,Mayorista,50.0,5.79,289.52
+TRX-1512,2025-06-05,Cuidado Personal,Jabón Fresh Menta,Moderno,47.0,32.82,1542.68
+TRX-1513,2025-06-05,Cuidado del Hogar,Detergente Bolívar,Tradicional,48.0,31.62,1517.91
+TRX-1514,2025-06-06,Cuidado Personal,Desodorante Mirror Dry,Moderno,49.0,7.02,343.82
+TRX-1515,2025-06-06,Cuidado Personal,Jabón Fresh Menta,Tradicional,50.0,20.05,1002.29
+TRX-1516,2025-06-06,Cuidado del Hogar,Detergente Bolívar,Tradicional,40.0,44.17,1766.87
+TRX-1517,2025-06-06,Cuidado del Hogar,Lavatodo Sapolio,Tradicional,40.0,22.12,884.76
+TRX-1518,2025-06-07,Alimentos,Fideos Don Vittorio,,32.0,25.33,810.46
+TRX-1519,2025-06-07,Cuidado del Hogar,Lavatodo Sapolio,Moderno,50.0,41.44,2072.11
+TRX-1520,2025-06-07,Cuidado Personal,Jabón Fresh Menta,Moderno,48.0,33.83,1623.93
+TRX-1521,2025-06-08,Cuidado Personal,Desodorante Mirror Dry,Tradicional,58.0,28.49,1652.52
+TRX-1522,2025-06-08,Alimentos,Aceite Primor Premium,Tradicional,38.0,37.01,1406.5
+TRX-1523,2025-06-08,Cuidado Personal,Jabón Fresh Menta,Mayorista,50.0,39.64,1982.12
+TRX-1524,2025-06-09,Alimentos,Aceite Primor Premium,Tradicional,45.0,23.55,1059.62
+TRX-1525,2025-06-09,Cuidado del Hogar,Detergente Bolívar,Tradicional,42.0,24.27,1019.2
+TRX-1526,2025-06-09,Alimentos,Fideos Don Vittorio,Tradicional,47.0,20.75,975.2
+TRX-1527,2025-06-09,Alimentos,Galletas Soda Sayón,Moderno,40.0,43.68,1747.4
+TRX-1528,2025-06-10,Cuidado del Hogar,Lavatodo Sapolio,Moderno,55.0,33.04,1817.09
+TRX-1529,2025-06-10,Alimentos,Fideos Don Vittorio,Tradicional,51.0,8.79,448.15
+TRX-1530,2025-06-10,Cuidado Personal,Jabón Fresh Menta,Tradicional,48.0,39.59,1900.17
+TRX-1531,2025-06-11,Alimentos,Aceite Primor Premium,Moderno,49.0,24.48,1199.62
+TRX-1532,2025-06-11,Cuidado del Hogar,Lavatodo Sapolio,Tradicional,44.0,8.22,361.49
+TRX-1533,2025-06-11,Alimentos,Aceite Primor Premium,Tradicional,58.0,27.21,1578.4
+TRX-1534,2025-06-12,Cuidado Personal,Desodorante Mirror Dry,Mayorista,52.0,21.98,1142.86
+TRX-1535,2025-06-12,Alimentos,Aceite Primor Premium,Tradicional,44.0,40.17,1767.53
+TRX-1536,2025-06-12,Cuidado Personal,Desodorante Mirror Dry,Tradicional,41.0,13.56,555.87
+TRX-1537,2025-06-13,Cuidado del Hogar,Detergente Bolívar,Mayorista,31.0,38.15,1182.51
+TRX-1538,2025-06-13,Cuidado del Hogar,Lavatodo Sapolio,Tradicional,57.0,27.53,1569.14
+TRX-1539,2025-06-13,Cuidado del Hogar,Lavatodo Sapolio,Tradicional,51.0,7.66,390.51
+TRX-1540,2025-06-13,Alimentos,Galletas Soda Sayón,Tradicional,48.0,43.89,2106.62
+TRX-1541,2025-06-14,Cuidado Personal,Jabón Fresh Menta,Tradicional,37.0,25.75,952.69
+TRX-1542,2025-06-14,Cuidado Personal,Desodorante Mirror Dry,Mayorista,33.0,16.99,560.66
+TRX-1543,2025-06-14,Alimentos,Galletas Soda Sayón,Tradicional,48.0,24.04,1154.0
+TRX-1544,2025-06-15,Alimentos,Aceite Primor Premium,Moderno,52.0,39.39,2048.04
+TRX-1545,2025-06-15,Alimentos,Aceite Primor Premium,Tradicional,35.0,17.54,614.03
+TRX-1546,2025-06-15,Alimentos,Galletas Soda Sayón,Tradicional,41.0,13.11,537.54
+TRX-1547,2025-06-16,Cuidado del Hogar,Lavatodo Sapolio,Tradicional,45.0,10.6,476.92
+TRX-1548,2025-06-16,Alimentos,Aceite Primor Premium,Tradicional,42.0,17.27,725.15
+TRX-1549,2025-06-16,Cuidado del Hogar,Detergente Bolívar,Tradicional,52.0,36.31,1888.22
+TRX-1550,2025-06-16,Cuidado del Hogar,Detergente Bolívar,Moderno,41.0,24.13,989.3
+TRX-1551,2025-06-17,Alimentos,Galletas Soda Sayón,Tradicional,60.0,14.49,869.13
+TRX-1552,2025-06-17,Cuidado Personal,Desodorante Mirror Dry,Mayorista,42.0,12.06,506.7
+TRX-1553,2025-06-17,Cuidado Personal,Desodorante Mirror Dry,Tradicional,35.0,18.64,652.5
+TRX-1554,2025-06-18,Alimentos,Galletas Soda Sayón,Moderno,46.0,42.63,1960.84
+TRX-1555,2025-06-18,Cuidado Personal,Desodorante Mirror Dry,Moderno,49.0,19.05,933.43
+TRX-1556,2025-06-18,Cuidado del Hogar,Lavatodo Sapolio,Moderno,53.0,44.53,2360.14
+TRX-1557,2025-06-19,Cuidado del Hogar,Lavatodo Sapolio,Moderno,44.0,24.67,1085.33
+TRX-1558,2025-06-19,Cuidado Personal,Desodorante Mirror Dry,Moderno,37.0,12.58,465.35
+TRX-1559,2025-06-19,Cuidado del Hogar,Detergente Bolívar,Tradicional,38.0,40.7,1546.6
+TRX-1560,2025-06-20,Cuidado Personal,Desodorante Mirror Dry,Tradicional,39.0,23.68,923.68
+TRX-1561,2025-06-20,Cuidado del Hogar,Lavatodo Sapolio,Tradicional,37.0,33.53,1240.68
+TRX-1562,2025-06-20,Alimentos,Fideos Don Vittorio,,49.0,44.36,2173.47
+TRX-1563,2025-06-20,Cuidado Personal,Jabón Fresh Menta,Tradicional,45.0,7.48,336.69
+TRX-1564,2025-06-21,Alimentos,Aceite Primor Premium,Moderno,34.0,9.32,316.86
+TRX-1565,2025-06-21,Alimentos,Fideos Don Vittorio,Tradicional,39.0,33.96,1324.36
+TRX-1566,2025-06-21,Cuidado Personal,Desodorante Mirror Dry,Tradicional,35.0,16.63,582.12
+TRX-1567,2025-06-22,Cuidado del Hogar,Detergente Bolívar,Tradicional,45.0,12.78,575.1
+TRX-1568,2025-06-22,Alimentos,Galletas Soda Sayón,Moderno,40.0,7.05,282.19
+TRX-1569,2025-06-22,Cuidado Personal,Desodorante Mirror Dry,Tradicional,43.0,6.36,273.61
+TRX-1570,2025-06-23,Cuidado del Hogar,Detergente Bolívar,Tradicional,47.0,36.09,1696.33
+TRX-1571,2025-06-23,Cuidado Personal,Jabón Fresh Menta,Tradicional,,10.81,464.84
+TRX-1572,2025-06-23,Cuidado Personal,Desodorante Mirror Dry,Tradicional,,23.97,1102.85
+TRX-1573,2025-06-23,Cuidado del Hogar,Lavatodo Sapolio,Tradicional,49.0,29.43,1442.21
+TRX-1574,2025-06-24,Alimentos,Galletas Soda Sayón,Tradicional,45.0,22.42,1008.9
+TRX-1575,2025-06-24,Cuidado del Hogar,Detergente Bolívar,Moderno,,6.57,354.82
+TRX-1576,2025-06-24,Cuidado del Hogar,Detergente Bolívar,Tradicional,46.0,36.45,1676.62
+TRX-1577,2025-06-25,Cuidado del Hogar,Detergente Bolívar,Tradicional,47.0,5.92,278.02
+TRX-1578,2025-06-25,Cuidado Personal,Jabón Fresh Menta,Tradicional,42.0,35.59,1494.98
+TRX-1579,2025-06-25,Cuidado Personal,Desodorante Mirror Dry,Tradicional,49.0,40.79,1998.49
+TRX-1580,2025-06-26,Cuidado Personal,Jabón Fresh Menta,Tradicional,43.0,22.6,971.68
+TRX-1581,2025-06-26,Alimentos,Aceite Primor Premium,Tradicional,39.0,26.65,1039.5
+TRX-1582,2025-06-26,Alimentos,Aceite Primor Premium,Tradicional,43.0,24.34,1046.66
+TRX-1583,2025-06-26,Cuidado Personal,Desodorante Mirror Dry,Tradicional,51.0,20.87,1064.56
+TRX-1584,2025-06-27,Cuidado del Hogar,Lavatodo Sapolio,Moderno,44.0,40.55,1784.34
+TRX-1585,2025-06-27,Cuidado Personal,Jabón Fresh Menta,Moderno,47.0,40.81,1918.09
+TRX-1586,2025-06-27,Alimentos,Galletas Soda Sayón,Moderno,40.0,18.76,750.59
+TRX-1587,2025-06-28,Cuidado del Hogar,Detergente Bolívar,Tradicional,50.0,29.8,1489.76
+TRX-1588,2025-06-28,Cuidado del Hogar,Detergente Bolívar,Tradicional,53.0,42.11,2231.98
+TRX-1589,2025-06-28,Cuidado Personal,Desodorante Mirror Dry,Tradicional,42.0,43.5,1827.06
+TRX-1590,2025-06-29,Cuidado del Hogar,Lavatodo Sapolio,Tradicional,44.0,25.6,1126.57
+TRX-1591,2025-06-29,Alimentos,Aceite Primor Premium,Mayorista,44.0,23.39,1029.01
+TRX-1592,2025-06-29,Alimentos,Aceite Primor Premium,Tradicional,43.0,16.51,709.86
+TRX-1593,2025-06-30,Cuidado del Hogar,Detergente Bolívar,Tradicional,55.0,43.38,2385.65
+TRX-1594,2025-06-30,Cuidado Personal,Desodorante Mirror Dry,Tradicional,43.0,11.14,479.07
+TRX-1595,2025-06-30,Cuidado Personal,Jabón Fresh Menta,Moderno,65.0,28.4,1846.21
+TRX-1596,2025-06-30,Alimentos,Aceite Primor Premium,Tradicional,48.0,16.66,799.72
+TRX-1597,2025-07-01,Cuidado Personal,Jabón Fresh Menta,Tradicional,42.0,16.52,693.87
+TRX-1598,2025-07-01,Cuidado del Hogar,Lavatodo Sapolio,Tradicional,46.0,21.5,988.83
+TRX-1599,2025-07-01,Alimentos,Aceite Primor Premium,Tradicional,39.0,44.95,1753.14
+TRX-1600,2025-07-02,Alimentos,Aceite Primor Premium,Tradicional,42.0,7.67,322.19
+TRX-1601,2025-07-02,Alimentos,Fideos Don Vittorio,Tradicional,42.0,28.35,1190.8
+TRX-1602,2025-07-02,Alimentos,Aceite Primor Premium,,50.0,8.76,438.08
+TRX-1603,2025-07-03,Alimentos,Galletas Soda Sayón,Tradicional,49.0,11.6,568.58
+TRX-1604,2025-07-03,Cuidado Personal,Desodorante Mirror Dry,Tradicional,39.0,22.86,891.65
+TRX-1605,2025-07-03,Cuidado Personal,Desodorante Mirror Dry,Tradicional,45.0,25.66,1154.84
+TRX-1606,2025-07-03,Cuidado Personal,Jabón Fresh Menta,Tradicional,46.0,15.72,723.23
+TRX-1607,2025-07-04,Cuidado del Hogar,Lavatodo Sapolio,Moderno,51.0,18.0,918.0
+TRX-1608,2025-07-04,Alimentos,Aceite Primor Premium,Moderno,51.0,8.94,455.7
+TRX-1609,2025-07-04,Alimentos,Galletas Soda Sayón,Tradicional,52.0,17.48,908.81
+TRX-1610,2025-07-05,Cuidado Personal,Jabón Fresh Menta,Tradicional,37.0,43.68,1616.13
+TRX-1611,2025-07-05,Alimentos,Fideos Don Vittorio,Tradicional,948.0,42.82,40593.36
+TRX-1612,2025-07-05,Cuidado Personal,Jabón Fresh Menta,Tradicional,38.0,18.73,711.65
+TRX-1613,2025-07-06,Cuidado Personal,Jabón Fresh Menta,Moderno,55.0,28.05,1542.68
+TRX-1614,2025-07-06,Alimentos,Aceite Primor Premium,Tradicional,56.0,41.43,2320.03
+TRX-1615,2025-07-06,Alimentos,Fideos Don Vittorio,Mayorista,47.0,5.74,269.98
+TRX-1616,2025-07-07,Cuidado Personal,Jabón Fresh Menta,Tradicional,55.0,37.52,2063.71
+TRX-1617,2025-07-07,Alimentos,Galletas Soda Sayón,Tradicional,48.0,42.96,2062.11
+TRX-1618,2025-07-07,Alimentos,Galletas Soda Sayón,Moderno,44.0,9.11,400.72
+TRX-1619,2025-07-07,Cuidado Personal,Desodorante Mirror Dry,Moderno,40.0,11.88,475.09
+TRX-1620,2025-07-08,Alimentos,Fideos Don Vittorio,Moderno,41.0,43.45,1781.43
+TRX-1621,2025-07-08,Alimentos,Fideos Don Vittorio,Moderno,39.0,26.73,1042.58
+TRX-1622,2025-07-08,Cuidado Personal,Desodorante Mirror Dry,Tradicional,56.0,6.06,339.4
+TRX-1623,2025-07-09,Cuidado Personal,Jabón Fresh Menta,Moderno,38.0,15.68,595.71
+TRX-1624,2025-07-09,Alimentos,Fideos Don Vittorio,Tradicional,49.0,23.27,1140.37
+TRX-1625,2025-07-09,Alimentos,Galletas Soda Sayón,Moderno,52.0,32.87,1709.23
+TRX-1626,2025-07-10,Alimentos,Galletas Soda Sayón,Tradicional,51.0,34.46,1757.45
+TRX-1627,2025-07-10,Alimentos,Aceite Primor Premium,Moderno,49.0,44.82,2196.14
+TRX-1628,2025-07-10,Alimentos,Fideos Don Vittorio,Tradicional,58.0,16.86,977.69
+TRX-1629,2025-07-10,Cuidado Personal,Jabón Fresh Menta,Tradicional,41.0,26.76,1097.15
+TRX-1630,2025-07-11,Cuidado Personal,Desodorante Mirror Dry,Tradicional,38.0,26.57,1009.52
+TRX-1631,2025-07-11,Cuidado Personal,Desodorante Mirror Dry,Moderno,39.0,21.52,839.4
+TRX-1632,2025-07-11,Cuidado Personal,Jabón Fresh Menta,Tradicional,40.0,12.18,487.28
+TRX-1633,2025-07-12,Cuidado del Hogar,Lavatodo Sapolio,Tradicional,52.0,44.11,2293.7
+TRX-1634,2025-07-12,Cuidado del Hogar,Detergente Bolívar,Tradicional,50.0,39.21,1960.3
+TRX-1635,2025-07-12,Alimentos,Aceite Primor Premium,Tradicional,34.0,25.18,856.26
+TRX-1636,2025-07-13,Cuidado Personal,Desodorante Mirror Dry,Moderno,42.0,29.33,1231.78
+TRX-1637,2025-07-13,Alimentos,Fideos Don Vittorio,Tradicional,40.0,14.48,579.07
+TRX-1638,2025-07-13,Alimentos,Aceite Primor Premium,Mayorista,41.0,26.98,1106.16
+TRX-1639,2025-07-13,Alimentos,Fideos Don Vittorio,Tradicional,55.0,32.95,1812.32
+TRX-1640,2025-07-14,Cuidado del Hogar,Lavatodo Sapolio,Tradicional,40.0,25.85,1033.96
+TRX-1641,2025-07-14,Alimentos,Galletas Soda Sayón,Moderno,32.0,44.62,1427.72
+TRX-1642,2025-07-14,Alimentos,Aceite Primor Premium,Tradicional,50.0,29.65,1482.4
+TRX-1643,2025-07-15,Cuidado Personal,Desodorante Mirror Dry,Tradicional,39.0,20.15,785.99
+TRX-1644,2025-07-15,Alimentos,Aceite Primor Premium,Tradicional,43.0,36.0,1548.0
+TRX-1645,2025-07-15,Alimentos,Aceite Primor Premium,Moderno,51.0,12.23,623.9
+TRX-1646,2025-07-16,Alimentos,Aceite Primor Premium,Tradicional,41.0,20.69,848.22
+TRX-1647,2025-07-16,Cuidado del Hogar,Detergente Bolívar,Mayorista,39.0,19.2,748.99
+TRX-1648,2025-07-16,Alimentos,Aceite Primor Premium,Mayorista,51.0,22.56,1150.38
+TRX-1649,2025-07-17,Alimentos,Fideos Don Vittorio,Tradicional,50.0,36.38,1819.02
+TRX-1650,2025-07-17,Alimentos,Galletas Soda Sayón,Tradicional,53.0,24.62,1305.12
+TRX-1651,2025-07-17,Cuidado del Hogar,Lavatodo Sapolio,Moderno,46.0,36.86,1695.72
+TRX-1652,2025-07-17,Cuidado Personal,Jabón Fresh Menta,Tradicional,54.0,28.27,1526.65
+TRX-1653,2025-07-18,Alimentos,Aceite Primor Premium,Tradicional,50.0,19.01,950.59
+TRX-1654,2025-07-18,Cuidado Personal,Desodorante Mirror Dry,Tradicional,49.0,37.49,1837.21
+TRX-1655,2025-07-18,Alimentos,Aceite Primor Premium,Tradicional,39.0,14.91,581.59
+TRX-1656,2025-07-19,Cuidado Personal,Desodorante Mirror Dry,Moderno,57.0,14.36,818.7
+TRX-1657,2025-07-19,Alimentos,Fideos Don Vittorio,Moderno,42.0,25.43,1067.97
+TRX-1658,2025-07-19,Cuidado Personal,Desodorante Mirror Dry,Moderno,52.0,15.8,821.78
+TRX-1659,2025-07-20,Cuidado Personal,Jabón Fresh Menta,,47.0,5.86,275.37
+TRX-1660,2025-07-20,Alimentos,Galletas Soda Sayón,Tradicional,44.0,31.11,1368.74
+TRX-1661,2025-07-20,Cuidado Personal,Desodorante Mirror Dry,Tradicional,49.0,25.69,1258.72
+TRX-1662,2025-07-20,Cuidado Personal,Desodorante Mirror Dry,Mayorista,1252.0,23.1,28921.2
+TRX-1663,2025-07-21,Alimentos,Galletas Soda Sayón,Tradicional,45.0,43.7,1966.29
+TRX-1664,2025-07-21,Cuidado Personal,Jabón Fresh Menta,Moderno,49.0,28.06,1375.06
+TRX-1665,2025-07-21,Alimentos,Aceite Primor Premium,Tradicional,40.0,39.61,1584.22
+TRX-1666,2025-07-22,Cuidado Personal,Desodorante Mirror Dry,Tradicional,48.0,11.01,528.4
+TRX-1667,2025-07-22,Alimentos,Galletas Soda Sayón,Moderno,38.0,27.98,1063.38
+TRX-1668,2025-07-22,Alimentos,Fideos Don Vittorio,Tradicional,44.0,39.79,1750.55
+TRX-1669,2025-07-23,Alimentos,Galletas Soda Sayón,,53.0,28.53,1512.23
+TRX-1670,2025-07-23,Alimentos,Fideos Don Vittorio,Mayorista,47.0,33.86,1591.49
+TRX-1671,2025-07-23,Cuidado Personal,Jabón Fresh Menta,Tradicional,,20.2,1252.13
+TRX-1672,2025-07-24,Alimentos,Aceite Primor Premium,Tradicional,45.0,9.15,411.83
+TRX-1673,2025-07-24,Alimentos,Galletas Soda Sayón,Tradicional,37.0,23.59,872.72
+TRX-1674,2025-07-24,Cuidado del Hogar,Lavatodo Sapolio,Mayorista,47.0,21.08,990.85
+TRX-1675,2025-07-24,Cuidado del Hogar,Lavatodo Sapolio,Tradicional,42.0,39.75,1669.45
+TRX-1676,2025-07-25,Cuidado del Hogar,Detergente Bolívar,Tradicional,34.0,15.14,514.69
+TRX-1677,2025-07-25,Cuidado Personal,Desodorante Mirror Dry,Tradicional,,43.69,2096.93
+TRX-1678,2025-07-25,Cuidado Personal,Jabón Fresh Menta,Moderno,53.0,43.35,2297.36
+TRX-1679,2025-07-26,Alimentos,Galletas Soda Sayón,Tradicional,38.0,15.28,580.7
+TRX-1680,2025-07-26,Cuidado del Hogar,Lavatodo Sapolio,Moderno,41.0,19.25,789.17
+TRX-1681,2025-07-26,Cuidado Personal,Desodorante Mirror Dry,Mayorista,55.0,40.87,2248.09
+TRX-1682,2025-07-27,Cuidado del Hogar,Lavatodo Sapolio,Tradicional,53.0,43.68,2315.12
+TRX-1683,2025-07-27,Alimentos,Galletas Soda Sayón,Tradicional,42.0,23.02,966.67
+TRX-1684,2025-07-27,Alimentos,Fideos Don Vittorio,,34.0,18.18,618.1
+TRX-1685,2025-07-27,Alimentos,Galletas Soda Sayón,Tradicional,33.0,26.28,867.26
+TRX-1686,2025-07-28,Cuidado del Hogar,Detergente Bolívar,,39.0,32.67,1274.01
+TRX-1687,2025-07-28,Alimentos,Galletas Soda Sayón,Tradicional,40.0,16.3,652.09
+TRX-1688,2025-07-28,Alimentos,Galletas Soda Sayón,Tradicional,,34.59,1279.86
+TRX-1689,2025-07-29,Cuidado del Hogar,Detergente Bolívar,Moderno,64.0,7.54,482.59
+TRX-1690,2025-07-29,Cuidado Personal,Jabón Fresh Menta,Tradicional,40.0,7.45,297.89
+TRX-1691,2025-07-29,Alimentos,Galletas Soda Sayón,Tradicional,2122.0,20.76,44052.72
+TRX-1692,2025-07-30,Cuidado del Hogar,Detergente Bolívar,Tradicional,39.0,19.46,759.03
+TRX-1693,2025-07-30,Cuidado Personal,Desodorante Mirror Dry,Tradicional,40.0,17.97,718.7
+TRX-1694,2025-07-30,Alimentos,Fideos Don Vittorio,Tradicional,48.0,24.9,1194.97
+TRX-1695,2025-07-30,Alimentos,Fideos Don Vittorio,Tradicional,39.0,18.17,708.59
+TRX-1696,2025-07-31,Alimentos,Galletas Soda Sayón,Mayorista,37.0,13.09,484.48
+TRX-1697,2025-07-31,Cuidado Personal,Jabón Fresh Menta,Tradicional,54.0,17.72,957.1
+TRX-1698,2025-07-31,Cuidado Personal,Jabón Fresh Menta,Tradicional,34.0,44.01,1496.3
+TRX-1699,2025-08-01,Cuidado Personal,Desodorante Mirror Dry,,41.0,21.74,891.3
+TRX-1700,2025-08-01,Alimentos,Galletas Soda Sayón,Moderno,52.0,23.07,1199.44
+TRX-1701,2025-08-01,Alimentos,Fideos Don Vittorio,Tradicional,47.0,28.27,1328.86
+TRX-1702,2025-08-02,Cuidado Personal,Jabón Fresh Menta,Mayorista,37.0,44.34,1640.65
+TRX-1703,2025-08-02,Alimentos,Galletas Soda Sayón,Tradicional,40.0,15.04,601.73
+TRX-1704,2025-08-02,Cuidado del Hogar,Lavatodo Sapolio,Tradicional,34.0,32.41,1101.96
+TRX-1705,2025-08-03,Cuidado Personal,Jabón Fresh Menta,Tradicional,41.0,33.78,1385.04
+TRX-1706,2025-08-03,Cuidado del Hogar,Detergente Bolívar,Tradicional,1556.0,29.49,45886.439999999995
+TRX-1707,2025-08-03,Cuidado del Hogar,Lavatodo Sapolio,Tradicional,44.0,9.0,395.95
+TRX-1708,2025-08-03,Cuidado Personal,Jabón Fresh Menta,Tradicional,46.0,32.24,1482.88
+TRX-1709,2025-08-04,Alimentos,Fideos Don Vittorio,Moderno,41.0,8.03,329.3
+TRX-1710,2025-08-04,Alimentos,Aceite Primor Premium,Tradicional,55.0,29.05,1597.62
+TRX-1711,2025-08-04,Cuidado del Hogar,Lavatodo Sapolio,Tradicional,38.0,34.71,1319.11
+TRX-1712,2025-08-05,Cuidado Personal,Desodorante Mirror Dry,Tradicional,50.0,13.83,691.67
+TRX-1713,2025-08-05,Cuidado Personal,Desodorante Mirror Dry,Moderno,45.0,38.74,1743.48
+TRX-1714,2025-08-05,Alimentos,Fideos Don Vittorio,Tradicional,42.0,6.7,281.36
+TRX-1715,2025-08-06,Cuidado Personal,Jabón Fresh Menta,Tradicional,43.0,38.83,1669.72
+TRX-1716,2025-08-06,Alimentos,Galletas Soda Sayón,Tradicional,44.0,23.68,1042.05
+TRX-1717,2025-08-06,Cuidado Personal,Jabón Fresh Menta,Moderno,36.0,14.09,507.41
+TRX-1718,2025-08-06,Alimentos,Fideos Don Vittorio,Tradicional,60.0,10.78,647.05
+TRX-1719,2025-08-07,Cuidado Personal,Desodorante Mirror Dry,Tradicional,46.0,43.16,1985.16
+TRX-1720,2025-08-07,Cuidado Personal,Jabón Fresh Menta,Moderno,45.0,8.37,376.66
+TRX-1721,2025-08-07,Cuidado Personal,Desodorante Mirror Dry,Moderno,39.0,13.36,521.2
+TRX-1722,2025-08-08,Cuidado del Hogar,Lavatodo Sapolio,Tradicional,42.0,19.24,808.04
+TRX-1723,2025-08-08,Alimentos,Galletas Soda Sayón,Moderno,37.0,30.0,1109.97
+TRX-1724,2025-08-08,Cuidado del Hogar,Lavatodo Sapolio,Tradicional,38.0,27.02,1026.75
+TRX-1725,2025-08-09,Cuidado Personal,Desodorante Mirror Dry,Tradicional,39.0,10.46,408.05
+TRX-1726,2025-08-09,Cuidado Personal,Desodorante Mirror Dry,Tradicional,52.0,16.94,881.1
+TRX-1727,2025-08-09,Alimentos,Aceite Primor Premium,Tradicional,46.0,14.93,686.81
+TRX-1728,2025-08-10,Alimentos,Aceite Primor Premium,Tradicional,42.0,13.93,585.27
+TRX-1729,2025-08-10,Cuidado del Hogar,Lavatodo Sapolio,Mayorista,42.0,21.74,913.09
+TRX-1730,2025-08-10,Cuidado del Hogar,Detergente Bolívar,Tradicional,46.0,33.31,1532.23
+TRX-1731,2025-08-10,Cuidado del Hogar,Lavatodo Sapolio,Tradicional,51.0,14.09,718.56
+TRX-1732,2025-08-11,Alimentos,Aceite Primor Premium,Tradicional,48.0,19.98,959.22
+TRX-1733,2025-08-11,Cuidado Personal,Desodorante Mirror Dry,,39.0,20.94,816.71
+TRX-1734,2025-08-11,Alimentos,Fideos Don Vittorio,Tradicional,40.0,44.07,1762.8
+TRX-1735,2025-08-12,Cuidado del Hogar,Lavatodo Sapolio,Tradicional,51.0,43.21,2203.68
+TRX-1736,2025-08-12,Cuidado Personal,Desodorante Mirror Dry,Tradicional,50.0,37.11,1855.27
+TRX-1737,2025-08-12,Alimentos,Fideos Don Vittorio,Tradicional,44.0,15.05,662.0
+TRX-1738,2025-08-13,Alimentos,Fideos Don Vittorio,Mayorista,34.0,8.19,278.37
+TRX-1739,2025-08-13,Alimentos,Aceite Primor Premium,Mayorista,57.0,18.02,1027.01
+TRX-1740,2025-08-13,Cuidado del Hogar,Lavatodo Sapolio,Tradicional,41.0,16.04,657.57
+TRX-1741,2025-08-13,Cuidado Personal,Jabón Fresh Menta,Mayorista,44.0,25.48,1121.3
+TRX-1742,2025-08-14,Alimentos,Galletas Soda Sayón,Tradicional,50.0,36.22,1811.01
+TRX-1743,2025-08-14,Alimentos,Aceite Primor Premium,Moderno,45.0,39.4,1773.17
+TRX-1744,2025-08-14,Alimentos,Aceite Primor Premium,Tradicional,51.0,38.87,1982.48
+TRX-1745,2025-08-15,Cuidado Personal,Jabón Fresh Menta,Tradicional,52.0,19.71,1024.77
+TRX-1746,2025-08-15,Alimentos,Galletas Soda Sayón,Tradicional,42.0,32.65,1371.12
+TRX-1747,2025-08-15,Cuidado Personal,Desodorante Mirror Dry,Tradicional,47.0,17.86,839.28
+TRX-1748,2025-08-16,Cuidado del Hogar,Detergente Bolívar,Tradicional,45.0,7.91,355.76
+TRX-1749,2025-08-16,Cuidado del Hogar,Lavatodo Sapolio,Tradicional,30.0,33.21,996.35
+TRX-1750,2025-08-16,Cuidado del Hogar,Detergente Bolívar,Tradicional,46.0,5.89,270.86
+TRX-1751,2025-08-16,Cuidado Personal,Desodorante Mirror Dry,Moderno,53.0,21.66,1148.12
+TRX-1752,2025-08-17,Alimentos,Aceite Primor Premium,Tradicional,39.0,18.51,721.91
+TRX-1753,2025-08-17,Alimentos,Galletas Soda Sayón,Tradicional,50.0,32.89,1644.42
+TRX-1754,2025-08-17,Alimentos,Aceite Primor Premium,Mayorista,47.0,35.77,1681.03
+TRX-1755,2025-08-18,Alimentos,Fideos Don Vittorio,Tradicional,38.0,17.51,665.45
+TRX-1756,2025-08-18,Alimentos,Aceite Primor Premium,Tradicional,51.0,37.56,1915.52
+TRX-1757,2025-08-18,Alimentos,Aceite Primor Premium,,50.0,17.11,855.49
+TRX-1758,2025-08-19,Cuidado Personal,Desodorante Mirror Dry,Moderno,51.0,23.13,1179.62
+TRX-1759,2025-08-19,Cuidado Personal,Desodorante Mirror Dry,Tradicional,49.0,34.22,1676.64
+TRX-1760,2025-08-19,Cuidado Personal,Desodorante Mirror Dry,Moderno,57.0,32.87,1873.61
+TRX-1761,2025-08-20,Cuidado del Hogar,Detergente Bolívar,Moderno,,44.5,1424.03
+TRX-1762,2025-08-20,Alimentos,Fideos Don Vittorio,Mayorista,52.0,14.39,748.48
+TRX-1763,2025-08-20,Cuidado Personal,Desodorante Mirror Dry,Moderno,51.0,31.66,1614.74
+TRX-1764,2025-08-20,Alimentos,Galletas Soda Sayón,Tradicional,42.0,29.58,1242.46
+TRX-1765,2025-08-21,Cuidado del Hogar,Detergente Bolívar,Tradicional,58.0,41.65,2415.49
+TRX-1766,2025-08-21,Cuidado Personal,Jabón Fresh Menta,Moderno,47.0,11.68,548.79
+TRX-1767,2025-08-21,Alimentos,Galletas Soda Sayón,Tradicional,41.0,35.2,1443.04
+TRX-1768,2025-08-22,Cuidado del Hogar,Lavatodo Sapolio,,59.0,27.95,1648.85
+TRX-1769,2025-08-22,Cuidado del Hogar,Lavatodo Sapolio,Mayorista,50.0,16.35,817.47
+TRX-1770,2025-08-22,Alimentos,Galletas Soda Sayón,Moderno,49.0,24.24,1187.77
+TRX-1771,2025-08-23,Cuidado Personal,Desodorante Mirror Dry,Tradicional,42.0,18.68,784.74
+TRX-1772,2025-08-23,Cuidado Personal,Jabón Fresh Menta,Tradicional,44.0,28.38,1248.85
+TRX-1773,2025-08-23,Cuidado Personal,Jabón Fresh Menta,Tradicional,42.0,40.62,1705.85
+TRX-1774,2025-08-23,Cuidado del Hogar,Detergente Bolívar,Tradicional,58.0,27.99,1623.28
+TRX-1775,2025-08-24,Cuidado Personal,Jabón Fresh Menta,Tradicional,42.0,30.45,1279.03
+TRX-1776,2025-08-24,Cuidado del Hogar,Lavatodo Sapolio,Tradicional,32.0,25.99,831.7
+TRX-1777,2025-08-24,Alimentos,Fideos Don Vittorio,Tradicional,,7.52,278.28
+TRX-1778,2025-08-25,Cuidado Personal,Desodorante Mirror Dry,Mayorista,44.0,14.7,646.71
+TRX-1779,2025-08-25,Cuidado Personal,Jabón Fresh Menta,Tradicional,40.0,24.93,997.36
+TRX-1780,2025-08-25,Cuidado del Hogar,Detergente Bolívar,Mayorista,48.0,17.75,852.21
+TRX-1781,2025-08-26,Cuidado del Hogar,Lavatodo Sapolio,Tradicional,50.0,12.68,633.98
+TRX-1782,2025-08-26,Alimentos,Fideos Don Vittorio,Moderno,55.0,25.41,1397.73
+TRX-1783,2025-08-26,Alimentos,Aceite Primor Premium,Moderno,50.0,18.25,912.55
+TRX-1784,2025-08-27,Alimentos,Aceite Primor Premium,Tradicional,48.0,15.7,753.37
+TRX-1785,2025-08-27,Alimentos,Fideos Don Vittorio,Moderno,43.0,23.83,1024.58
+TRX-1786,2025-08-27,Cuidado del Hogar,Lavatodo Sapolio,Moderno,,10.76,441.35
+TRX-1787,2025-08-27,Cuidado del Hogar,Detergente Bolívar,Tradicional,40.0,42.15,1685.84
+TRX-1788,2025-08-28,Alimentos,Fideos Don Vittorio,Tradicional,38.0,39.77,1511.42
+TRX-1789,2025-08-28,Cuidado Personal,Desodorante Mirror Dry,Tradicional,44.0,33.45,1471.84
+TRX-1790,2025-08-28,Cuidado Personal,Desodorante Mirror Dry,Moderno,36.0,9.7,349.04
+TRX-1791,2025-08-29,Alimentos,Aceite Primor Premium,Moderno,46.0,36.15,1662.77
+TRX-1792,2025-08-29,Cuidado Personal,Jabón Fresh Menta,Moderno,45.0,37.41,1683.64
+TRX-1793,2025-08-29,Cuidado del Hogar,Detergente Bolívar,Tradicional,1041.0,35.83,37299.03
+TRX-1794,2025-08-30,Alimentos,Aceite Primor Premium,Moderno,37.0,10.0,370.06
+TRX-1795,2025-08-30,Cuidado Personal,Jabón Fresh Menta,Tradicional,46.0,30.93,1422.98
+TRX-1796,2025-08-30,Cuidado Personal,Jabón Fresh Menta,Tradicional,42.0,38.46,1615.14
+TRX-1797,2025-08-30,Cuidado Personal,Desodorante Mirror Dry,Tradicional,52.0,28.31,1471.88
+TRX-1798,2025-08-31,Cuidado del Hogar,Lavatodo Sapolio,Tradicional,48.0,31.03,1489.59
+TRX-1799,2025-08-31,Alimentos,Galletas Soda Sayón,Tradicional,43.0,23.61,1015.03
+TRX-1800,2025-08-31,Cuidado del Hogar,Lavatodo Sapolio,Tradicional,51.0,26.38,1345.58
+TRX-1801,2025-09-01,Alimentos,Galletas Soda Sayón,Moderno,46.0,6.86,315.46
+TRX-1802,2025-09-01,Alimentos,Fideos Don Vittorio,,39.0,30.74,1198.82
+TRX-1803,2025-09-01,Cuidado Personal,Desodorante Mirror Dry,,47.0,8.72,409.71
+TRX-1804,2025-09-02,Cuidado Personal,Jabón Fresh Menta,Tradicional,46.0,22.68,1043.42
+TRX-1805,2025-09-02,Cuidado del Hogar,Detergente Bolívar,Tradicional,38.0,17.06,648.28
+TRX-1806,2025-09-02,Alimentos,Galletas Soda Sayón,Tradicional,41.0,27.04,1108.82
+TRX-1807,2025-09-02,Cuidado del Hogar,Lavatodo Sapolio,Tradicional,44.0,10.77,473.88
+TRX-1808,2025-09-03,Cuidado Personal,Jabón Fresh Menta,Tradicional,30.0,32.82,984.6
+TRX-1809,2025-09-03,Alimentos,Galletas Soda Sayón,,49.0,36.9,1808.24
+TRX-1810,2025-09-03,Alimentos,Galletas Soda Sayón,Tradicional,39.0,11.95,466.15
+TRX-1811,2025-09-04,Alimentos,Galletas Soda Sayón,Tradicional,40.0,9.62,384.81
+TRX-1812,2025-09-04,Cuidado del Hogar,Detergente Bolívar,Tradicional,42.0,11.25,472.41
+TRX-1813,2025-09-04,Cuidado Personal,Desodorante Mirror Dry,,52.0,40.15,2087.62
+TRX-1814,2025-09-05,Cuidado del Hogar,Detergente Bolívar,Tradicional,42.0,26.36,1107.27
+TRX-1815,2025-09-05,Alimentos,Aceite Primor Premium,Tradicional,52.0,23.96,1245.75
+TRX-1816,2025-09-05,Cuidado Personal,Jabón Fresh Menta,Tradicional,39.0,9.72,378.89
+TRX-1817,2025-09-06,Cuidado Personal,Desodorante Mirror Dry,Tradicional,44.0,31.16,1370.93
+TRX-1818,2025-09-06,Cuidado Personal,Desodorante Mirror Dry,Tradicional,53.0,39.79,2108.66
+TRX-1819,2025-09-06,Cuidado Personal,Desodorante Mirror Dry,Tradicional,43.0,38.21,1643.17
+TRX-1820,2025-09-06,Cuidado del Hogar,Lavatodo Sapolio,Tradicional,52.0,30.23,1571.92
+TRX-1821,2025-09-07,Cuidado Personal,Desodorante Mirror Dry,Tradicional,44.0,8.47,372.83
+TRX-1822,2025-09-07,Cuidado del Hogar,Detergente Bolívar,Tradicional,,9.94,576.5
+TRX-1823,2025-09-07,Cuidado Personal,Desodorante Mirror Dry,Moderno,58.0,7.45,431.97
+TRX-1824,2025-09-08,Alimentos,Fideos Don Vittorio,Moderno,46.0,15.67,720.84
+TRX-1825,2025-09-08,Cuidado Personal,Jabón Fresh Menta,Moderno,44.0,10.86,477.78
+TRX-1826,2025-09-08,Cuidado Personal,Desodorante Mirror Dry,Mayorista,,15.77,583.56
+TRX-1827,2025-09-09,Cuidado Personal,Jabón Fresh Menta,Tradicional,49.0,20.71,1014.78
+TRX-1828,2025-09-09,Alimentos,Fideos Don Vittorio,Tradicional,43.0,42.75,1838.16
+TRX-1829,2025-09-09,Alimentos,Fideos Don Vittorio,Tradicional,47.0,29.61,1391.66
+TRX-1830,2025-09-09,Cuidado Personal,Jabón Fresh Menta,Tradicional,48.0,38.48,1847.11
+TRX-1831,2025-09-10,Alimentos,Galletas Soda Sayón,Moderno,42.0,33.56,1409.47
+TRX-1832,2025-09-10,Alimentos,Aceite Primor Premium,Tradicional,43.0,9.94,427.59
+TRX-1833,2025-09-10,Cuidado del Hogar,Lavatodo Sapolio,Mayorista,52.0,34.57,1797.58
+TRX-1834,2025-09-11,Alimentos,Galletas Soda Sayón,Tradicional,42.0,16.37,687.39
+TRX-1835,2025-09-11,Alimentos,Galletas Soda Sayón,Mayorista,35.0,30.74,1076.07
+TRX-1836,2025-09-11,Cuidado del Hogar,Detergente Bolívar,Tradicional,43.0,18.97,815.62
+TRX-1837,2025-09-12,Cuidado del Hogar,Lavatodo Sapolio,Tradicional,48.0,44.91,2155.59
+TRX-1838,2025-09-12,Cuidado del Hogar,Lavatodo Sapolio,Tradicional,43.0,15.91,684.14
+TRX-1839,2025-09-12,Alimentos,Galletas Soda Sayón,Tradicional,37.0,16.53,611.45
+TRX-1840,2025-09-13,Cuidado Personal,Desodorante Mirror Dry,Tradicional,46.0,42.26,1944.03
+TRX-1841,2025-09-13,Cuidado del Hogar,Detergente Bolívar,Tradicional,45.0,6.47,291.31
+TRX-1842,2025-09-13,Cuidado del Hogar,Detergente Bolívar,Moderno,62.0,33.02,2047.19
+TRX-1843,2025-09-13,Alimentos,Fideos Don Vittorio,Tradicional,56.0,34.15,1912.42
+TRX-1844,2025-09-14,Cuidado del Hogar,Lavatodo Sapolio,Tradicional,48.0,38.54,1849.77
+TRX-1845,2025-09-14,Alimentos,Galletas Soda Sayón,Tradicional,50.0,43.99,2199.52
+TRX-1846,2025-09-14,Alimentos,Fideos Don Vittorio,Moderno,49.0,44.04,2157.78
+TRX-1847,2025-09-15,Cuidado Personal,Jabón Fresh Menta,Tradicional,50.0,8.08,403.92
+TRX-1848,2025-09-15,Alimentos,Aceite Primor Premium,Tradicional,37.0,37.96,1404.62
+TRX-1849,2025-09-15,Cuidado del Hogar,Detergente Bolívar,Tradicional,46.0,31.03,1427.35
+TRX-1850,2025-09-16,Cuidado Personal,Jabón Fresh Menta,Tradicional,44.0,31.07,1367.08
+TRX-1851,2025-09-16,Cuidado Personal,Jabón Fresh Menta,Moderno,56.0,10.57,591.91
+TRX-1852,2025-09-16,Cuidado Personal,Desodorante Mirror Dry,Tradicional,53.0,31.18,1652.67
+TRX-1853,2025-09-16,Alimentos,Aceite Primor Premium,Tradicional,45.0,44.31,1993.86
+TRX-1854,2025-09-17,Cuidado Personal,Jabón Fresh Menta,,46.0,41.52,1909.77
+TRX-1855,2025-09-17,Cuidado Personal,Jabón Fresh Menta,Tradicional,28.0,22.85,639.68
+TRX-1856,2025-09-17,Alimentos,Aceite Primor Premium,Tradicional,64.0,7.08,452.99
+TRX-1857,2025-09-18,Alimentos,Aceite Primor Premium,Tradicional,50.0,19.81,990.53
+TRX-1858,2025-09-18,Cuidado Personal,Jabón Fresh Menta,Mayorista,48.0,38.14,1830.84
+TRX-1859,2025-09-18,Alimentos,Aceite Primor Premium,Tradicional,59.0,33.21,1959.34
+TRX-1860,2025-09-19,Cuidado Personal,Jabón Fresh Menta,Moderno,51.0,23.64,1205.85
+TRX-1861,2025-09-19,Cuidado Personal,Jabón Fresh Menta,Tradicional,47.0,7.68,360.8
+TRX-1862,2025-09-19,Cuidado Personal,Desodorante Mirror Dry,Tradicional,49.0,22.36,1095.75
+TRX-1863,2025-09-19,Alimentos,Galletas Soda Sayón,Tradicional,58.0,24.03,1393.54
+TRX-1864,2025-09-20,Cuidado Personal,Jabón Fresh Menta,Mayorista,47.0,42.18,1982.36
+TRX-1865,2025-09-20,Alimentos,Fideos Don Vittorio,Tradicional,,30.82,1263.74
+TRX-1866,2025-09-20,Cuidado del Hogar,Detergente Bolívar,Moderno,43.0,17.81,765.84
+TRX-1867,2025-09-21,Cuidado del Hogar,Lavatodo Sapolio,Moderno,38.0,26.25,997.5
+TRX-1868,2025-09-21,Alimentos,Galletas Soda Sayón,Tradicional,34.0,8.11,275.71
+TRX-1869,2025-09-21,Alimentos,Galletas Soda Sayón,Tradicional,35.0,43.92,1537.08
+TRX-1870,2025-09-22,Alimentos,Galletas Soda Sayón,Tradicional,48.0,19.72,946.67
+TRX-1871,2025-09-22,Cuidado Personal,Desodorante Mirror Dry,Tradicional,37.0,24.38,901.9
+TRX-1872,2025-09-22,Cuidado Personal,Jabón Fresh Menta,Moderno,68.0,19.53,1328.29
+TRX-1873,2025-09-23,Cuidado Personal,Desodorante Mirror Dry,Mayorista,39.0,32.46,1265.91
+TRX-1874,2025-09-23,Cuidado Personal,Jabón Fresh Menta,Tradicional,57.0,31.66,1804.52
+TRX-1875,2025-09-23,Cuidado Personal,Desodorante Mirror Dry,Tradicional,30.0,33.76,1012.66
+TRX-1876,2025-09-23,Cuidado Personal,Desodorante Mirror Dry,Moderno,46.0,16.09,740.22
+TRX-1877,2025-09-24,Cuidado del Hogar,Detergente Bolívar,Tradicional,41.0,17.97,736.73
+TRX-1878,2025-09-24,Alimentos,Fideos Don Vittorio,Moderno,,10.45,491.03
+TRX-1879,2025-09-24,Cuidado Personal,Desodorante Mirror Dry,Tradicional,40.0,31.39,1255.71
+TRX-1880,2025-09-25,Cuidado del Hogar,Detergente Bolívar,Tradicional,40.0,7.07,282.88
+TRX-1881,2025-09-25,Alimentos,Aceite Primor Premium,Tradicional,42.0,29.11,1222.55
+TRX-1882,2025-09-25,Alimentos,Fideos Don Vittorio,Tradicional,30.0,39.85,1195.59
+TRX-1883,2025-09-26,Cuidado Personal,Desodorante Mirror Dry,Tradicional,52.0,40.69,2115.77
+TRX-1884,2025-09-26,Cuidado del Hogar,Lavatodo Sapolio,Tradicional,39.0,23.24,906.24
+TRX-1885,2025-09-26,Alimentos,Galletas Soda Sayón,Tradicional,34.0,23.64,803.84
+TRX-1886,2025-09-26,Alimentos,Aceite Primor Premium,Moderno,42.0,8.54,358.69
+TRX-1887,2025-09-27,Alimentos,Aceite Primor Premium,Moderno,34.0,32.0,1087.84
+TRX-1888,2025-09-27,Cuidado del Hogar,Detergente Bolívar,Tradicional,50.0,37.94,1896.99
+TRX-1889,2025-09-27,Alimentos,Aceite Primor Premium,Tradicional,,15.16,682.37
+TRX-1890,2025-09-28,Alimentos,Fideos Don Vittorio,Tradicional,42.0,22.14,929.94
+TRX-1891,2025-09-28,Cuidado Personal,Desodorante Mirror Dry,Tradicional,46.0,38.63,1777.17
+TRX-1892,2025-09-28,Cuidado Personal,Desodorante Mirror Dry,Tradicional,46.0,40.15,1846.73
+TRX-1893,2025-09-29,Cuidado del Hogar,Lavatodo Sapolio,Tradicional,50.0,15.11,755.28
+TRX-1894,2025-09-29,Alimentos,Galletas Soda Sayón,Tradicional,,27.25,1008.16
+TRX-1895,2025-09-29,Cuidado del Hogar,Detergente Bolívar,Tradicional,42.0,13.1,550.35
+TRX-1896,2025-09-30,Alimentos,Galletas Soda Sayón,Tradicional,49.0,9.52,466.69
+TRX-1897,2025-09-30,Alimentos,Aceite Primor Premium,Tradicional,49.0,41.49,2032.97
+TRX-1898,2025-09-30,Cuidado del Hogar,Lavatodo Sapolio,Mayorista,48.0,37.91,1819.68
+TRX-1899,2025-09-30,Alimentos,Galletas Soda Sayón,Tradicional,54.0,35.52,1918.15
+TRX-1900,2025-10-01,Alimentos,Fideos Don Vittorio,Moderno,41.0,7.43,304.48
+TRX-1901,2025-10-01,Cuidado Personal,Desodorante Mirror Dry,Tradicional,43.0,38.83,1669.57
+TRX-1902,2025-10-01,Alimentos,Aceite Primor Premium,Tradicional,,22.8,1094.53
+TRX-1903,2025-10-02,Cuidado del Hogar,Lavatodo Sapolio,Moderno,48.0,19.02,913.18
+TRX-1904,2025-10-02,Alimentos,Galletas Soda Sayón,Moderno,43.0,27.09,1164.69
+TRX-1905,2025-10-02,Cuidado del Hogar,Detergente Bolívar,Mayorista,50.0,9.11,455.42
+TRX-1906,2025-10-03,Alimentos,Fideos Don Vittorio,Tradicional,48.0,35.39,1698.6
+TRX-1907,2025-10-03,Alimentos,Fideos Don Vittorio,Tradicional,48.0,28.51,1368.3
+TRX-1908,2025-10-03,Alimentos,Galletas Soda Sayón,Moderno,54.0,12.87,695.0
+TRX-1909,2025-10-03,Cuidado Personal,Desodorante Mirror Dry,Tradicional,44.0,12.94,569.15
+TRX-1910,2025-10-04,Alimentos,Galletas Soda Sayón,Tradicional,43.0,12.78,549.45
+TRX-1911,2025-10-04,Alimentos,Aceite Primor Premium,Tradicional,41.0,7.75,317.82
+TRX-1912,2025-10-04,Alimentos,Galletas Soda Sayón,Tradicional,53.0,28.72,1522.06
+TRX-1913,2025-10-05,Alimentos,Fideos Don Vittorio,Moderno,58.0,38.69,2244.24
+TRX-1914,2025-10-05,Cuidado del Hogar,Lavatodo Sapolio,Tradicional,52.0,6.19,321.94
+TRX-1915,2025-10-05,Alimentos,Galletas Soda Sayón,Tradicional,1674.0,7.44,12454.560000000001
+TRX-1916,2025-10-06,Cuidado Personal,Desodorante Mirror Dry,Tradicional,52.0,28.12,1462.47
+TRX-1917,2025-10-06,Cuidado del Hogar,Lavatodo Sapolio,Tradicional,,37.87,1552.67
+TRX-1918,2025-10-06,Cuidado del Hogar,Detergente Bolívar,Tradicional,51.0,18.41,938.72
+TRX-1919,2025-10-06,Cuidado Personal,Jabón Fresh Menta,Tradicional,54.0,19.31,1042.73
+TRX-1920,2025-10-07,Alimentos,Galletas Soda Sayón,Tradicional,48.0,29.06,1394.67
+TRX-1921,2025-10-07,Cuidado Personal,Desodorante Mirror Dry,Moderno,41.0,16.33,669.59
+TRX-1922,2025-10-07,Cuidado del Hogar,Lavatodo Sapolio,Tradicional,47.0,6.55,307.9
+TRX-1923,2025-10-08,Cuidado Personal,Desodorante Mirror Dry,Tradicional,49.0,34.54,1692.53
+TRX-1924,2025-10-08,Cuidado del Hogar,Detergente Bolívar,Moderno,44.0,30.21,1329.38
+TRX-1925,2025-10-08,Alimentos,Fideos Don Vittorio,Tradicional,51.0,28.44,1450.43
+TRX-1926,2025-10-09,Cuidado Personal,Desodorante Mirror Dry,Tradicional,49.0,34.8,1705.03
+TRX-1927,2025-10-09,Cuidado del Hogar,Lavatodo Sapolio,Tradicional,47.0,32.17,1512.07
+TRX-1928,2025-10-09,Cuidado Personal,Desodorante Mirror Dry,Tradicional,39.0,13.63,531.66
+TRX-1929,2025-10-10,Cuidado Personal,Desodorante Mirror Dry,Tradicional,36.0,19.42,699.23
+TRX-1930,2025-10-10,Cuidado Personal,Desodorante Mirror Dry,Mayorista,53.0,10.48,555.51
+TRX-1931,2025-10-10,Alimentos,Aceite Primor Premium,Tradicional,50.0,10.63,531.47
+TRX-1932,2025-10-10,Alimentos,Aceite Primor Premium,Tradicional,45.0,32.21,1449.44
+TRX-1933,2025-10-11,Alimentos,Fideos Don Vittorio,Moderno,42.0,39.41,1655.42
+TRX-1934,2025-10-11,Alimentos,Galletas Soda Sayón,Tradicional,40.0,43.53,1741.12
+TRX-1935,2025-10-11,Cuidado Personal,Desodorante Mirror Dry,Tradicional,48.0,30.32,1455.35
+TRX-1936,2025-10-12,Cuidado del Hogar,Detergente Bolívar,Tradicional,46.0,12.77,587.51
+TRX-1937,2025-10-12,Alimentos,Galletas Soda Sayón,Mayorista,41.0,9.67,396.6
+TRX-1938,2025-10-12,Cuidado del Hogar,Detergente Bolívar,Tradicional,64.0,37.61,2406.89
+TRX-1939,2025-10-13,Alimentos,Galletas Soda Sayón,Moderno,55.0,28.36,1559.85
+TRX-1940,2025-10-13,Alimentos,Fideos Don Vittorio,Tradicional,46.0,29.92,1376.42
+TRX-1941,2025-10-13,Cuidado Personal,Desodorante Mirror Dry,Tradicional,32.0,36.37,1163.77
+TRX-1942,2025-10-13,Cuidado Personal,Desodorante Mirror Dry,Tradicional,47.0,33.28,1564.13
+TRX-1943,2025-10-14,Cuidado Personal,Jabón Fresh Menta,Tradicional,56.0,38.46,2153.82
+TRX-1944,2025-10-14,Cuidado del Hogar,Detergente Bolívar,Moderno,37.0,7.72,285.66
+TRX-1945,2025-10-14,Alimentos,Galletas Soda Sayón,Tradicional,41.0,35.03,1436.11
+TRX-1946,2025-10-15,Alimentos,Galletas Soda Sayón,Tradicional,51.0,39.11,1994.54
+TRX-1947,2025-10-15,Alimentos,Aceite Primor Premium,Moderno,41.0,16.8,688.9
+TRX-1948,2025-10-15,Cuidado Personal,Jabón Fresh Menta,Mayorista,40.0,30.8,1231.91
+TRX-1949,2025-10-16,Cuidado del Hogar,Lavatodo Sapolio,Tradicional,48.0,17.91,859.65
+TRX-1950,2025-10-16,Cuidado del Hogar,Lavatodo Sapolio,Tradicional,47.0,43.34,2036.97
+TRX-1951,2025-10-16,Alimentos,Aceite Primor Premium,Tradicional,50.0,6.82,341.01
+TRX-1952,2025-10-17,Alimentos,Aceite Primor Premium,Mayorista,48.0,28.4,1363.29
+TRX-1953,2025-10-17,Alimentos,Aceite Primor Premium,Mayorista,42.0,12.08,507.23
+TRX-1954,2025-10-17,Cuidado del Hogar,Detergente Bolívar,Tradicional,56.0,33.63,1883.43
+TRX-1955,2025-10-17,Cuidado del Hogar,Detergente Bolívar,Moderno,,12.45,435.67
+TRX-1956,2025-10-18,Alimentos,Fideos Don Vittorio,Tradicional,50.0,14.8,739.88
+TRX-1957,2025-10-18,Alimentos,Fideos Don Vittorio,Tradicional,36.0,25.03,901.0
+TRX-1958,2025-10-18,Alimentos,Aceite Primor Premium,Tradicional,49.0,41.64,2040.16
+TRX-1959,2025-10-19,Cuidado Personal,Jabón Fresh Menta,Moderno,40.0,13.86,554.51
+TRX-1960,2025-10-19,Alimentos,Galletas Soda Sayón,Tradicional,46.0,11.2,515.08
+TRX-1961,2025-10-19,Cuidado del Hogar,Detergente Bolívar,,61.0,35.48,2164.25
+TRX-1962,2025-10-20,Cuidado Personal,Jabón Fresh Menta,Moderno,45.0,25.27,1137.35
+TRX-1963,2025-10-20,Cuidado Personal,Desodorante Mirror Dry,Moderno,46.0,41.52,1909.71
+TRX-1964,2025-10-20,Cuidado del Hogar,Detergente Bolívar,Tradicional,47.0,11.29,530.69
+TRX-1965,2025-10-20,Cuidado del Hogar,Detergente Bolívar,Tradicional,39.0,31.01,1209.55
+TRX-1966,2025-10-21,Alimentos,Fideos Don Vittorio,Tradicional,41.0,14.7,602.65
+TRX-1967,2025-10-21,Alimentos,Galletas Soda Sayón,Tradicional,44.0,11.69,514.45
+TRX-1968,2025-10-21,Alimentos,Galletas Soda Sayón,Tradicional,47.0,32.5,1527.29
+TRX-1969,2025-10-22,Cuidado del Hogar,Lavatodo Sapolio,Mayorista,41.0,28.95,1186.97
+TRX-1970,2025-10-22,Cuidado del Hogar,Lavatodo Sapolio,Tradicional,43.0,35.32,1518.57
+TRX-1971,2025-10-22,Cuidado del Hogar,Lavatodo Sapolio,Tradicional,49.0,17.72,868.46
+TRX-1972,2025-10-23,Cuidado del Hogar,Lavatodo Sapolio,Tradicional,36.0,23.19,835.02
+TRX-1973,2025-10-23,Cuidado Personal,Desodorante Mirror Dry,Tradicional,36.0,21.52,774.58
+TRX-1974,2025-10-23,Cuidado Personal,Desodorante Mirror Dry,Tradicional,49.0,44.37,2174.21
+TRX-1975,2025-10-23,Cuidado del Hogar,Detergente Bolívar,Tradicional,45.0,17.04,766.97
+TRX-1976,2025-10-24,Alimentos,Aceite Primor Premium,Mayorista,47.0,17.15,805.83
+TRX-1977,2025-10-24,Alimentos,Fideos Don Vittorio,Tradicional,44.0,19.5,858.2
+TRX-1978,2025-10-24,Alimentos,Fideos Don Vittorio,Mayorista,53.0,27.8,1473.48
+TRX-1979,2025-10-25,Cuidado del Hogar,Lavatodo Sapolio,Moderno,35.0,15.47,541.34
+TRX-1980,2025-10-25,Cuidado del Hogar,Detergente Bolívar,Tradicional,47.0,41.65,1957.74
+TRX-1981,2025-10-25,Cuidado Personal,Jabón Fresh Menta,Mayorista,34.0,15.99,543.82
+TRX-1982,2025-10-26,Alimentos,Aceite Primor Premium,,35.0,40.88,1430.97
+TRX-1983,2025-10-26,Cuidado del Hogar,Detergente Bolívar,Moderno,46.0,9.59,441.01
+TRX-1984,2025-10-26,Alimentos,Aceite Primor Premium,Tradicional,48.0,31.43,1508.84
+TRX-1985,2025-10-27,Alimentos,Aceite Primor Premium,Moderno,49.0,41.33,2024.97
+TRX-1986,2025-10-27,Alimentos,Aceite Primor Premium,Moderno,41.0,12.17,498.79
+TRX-1987,2025-10-27,Cuidado del Hogar,Detergente Bolívar,Moderno,2083.0,43.75,91131.25
+TRX-1988,2025-10-27,Cuidado del Hogar,Lavatodo Sapolio,Moderno,47.0,23.39,1099.28
+TRX-1989,2025-10-28,Alimentos,Fideos Don Vittorio,Tradicional,42.0,42.86,1799.94
+TRX-1990,2025-10-28,Alimentos,Fideos Don Vittorio,Tradicional,44.0,32.23,1418.31
+TRX-1991,2025-10-28,Cuidado del Hogar,Lavatodo Sapolio,Tradicional,49.0,17.41,853.22
+TRX-1992,2025-10-29,Alimentos,Aceite Primor Premium,Tradicional,42.0,12.94,543.39
+TRX-1993,2025-10-29,Cuidado Personal,Jabón Fresh Menta,Moderno,49.0,17.5,857.38
+TRX-1994,2025-10-29,Alimentos,Galletas Soda Sayón,Tradicional,48.0,9.17,440.36
+TRX-1995,2025-10-30,Cuidado del Hogar,Detergente Bolívar,Mayorista,50.0,11.18,559.14
+TRX-1996,2025-10-30,Alimentos,Galletas Soda Sayón,Tradicional,43.0,9.63,414.27
+TRX-1997,2025-10-30,Cuidado del Hogar,Lavatodo Sapolio,Moderno,1444.0,22.21,32071.24
+TRX-1998,2025-10-30,Cuidado Personal,Jabón Fresh Menta,Tradicional,,36.93,1550.86
+TRX-1999,2025-10-31,Cuidado del Hogar,Detergente Bolívar,Moderno,42.0,11.08,465.56
+TRX-2000,2025-10-31,Cuidado del Hogar,Lavatodo Sapolio,Mayorista,37.0,10.65,393.96
+TRX-2001,2025-10-31,Alimentos,Aceite Primor Premium,Tradicional,42.0,30.92,1298.45
+TRX-2002,2025-11-01,Alimentos,Fideos Don Vittorio,Tradicional,43.0,13.29,571.42
+TRX-2003,2025-11-01,Alimentos,Galletas Soda Sayón,Moderno,48.0,9.36,449.07
+TRX-2004,2025-11-01,Cuidado Personal,Desodorante Mirror Dry,Tradicional,48.0,12.09,580.34
+TRX-2005,2025-11-02,Cuidado Personal,Desodorante Mirror Dry,Tradicional,37.0,41.99,1553.53
+TRX-2006,2025-11-02,Cuidado Personal,Jabón Fresh Menta,Tradicional,47.0,37.95,1783.56
+TRX-2007,2025-11-02,Alimentos,Aceite Primor Premium,Tradicional,43.0,19.49,837.88
+TRX-2008,2025-11-03,Alimentos,Galletas Soda Sayón,Tradicional,36.0,31.4,1130.58
+TRX-2009,2025-11-03,Alimentos,Aceite Primor Premium,,37.0,26.72,988.73
+TRX-2010,2025-11-03,Alimentos,Galletas Soda Sayón,Tradicional,39.0,32.25,1257.61
+TRX-2011,2025-11-03,Cuidado Personal,Jabón Fresh Menta,Tradicional,,32.47,1493.41
+TRX-2012,2025-11-04,Cuidado Personal,Jabón Fresh Menta,Mayorista,54.0,30.33,1638.09
+TRX-2013,2025-11-04,Cuidado Personal,Desodorante Mirror Dry,Tradicional,42.0,16.01,672.46
+TRX-2014,2025-11-04,Alimentos,Aceite Primor Premium,Mayorista,46.0,7.04,323.87
+TRX-2015,2025-11-05,Cuidado del Hogar,Detergente Bolívar,Tradicional,46.0,23.49,1080.76
+TRX-2016,2025-11-05,Cuidado Personal,Desodorante Mirror Dry,Tradicional,43.0,40.69,1749.82
+TRX-2017,2025-11-05,Alimentos,Aceite Primor Premium,Tradicional,37.0,28.0,1035.82
+TRX-2018,2025-11-06,Cuidado Personal,Desodorante Mirror Dry,Tradicional,44.0,38.38,1688.7
+TRX-2019,2025-11-06,Cuidado del Hogar,Detergente Bolívar,Tradicional,50.0,44.67,2233.46
+TRX-2020,2025-11-06,Alimentos,Fideos Don Vittorio,Tradicional,52.0,11.96,622.07
+TRX-2021,2025-11-06,Alimentos,Fideos Don Vittorio,Tradicional,44.0,32.83,1444.31
+TRX-2022,2025-11-07,Alimentos,Fideos Don Vittorio,Tradicional,52.0,32.13,1671.0
+TRX-2023,2025-11-07,Alimentos,Fideos Don Vittorio,Tradicional,2376.0,44.21,105042.96
+TRX-2024,2025-11-07,Cuidado del Hogar,Lavatodo Sapolio,,66.0,44.43,2932.46
+TRX-2025,2025-11-08,Alimentos,Galletas Soda Sayón,Tradicional,50.0,32.62,1631.19
+TRX-2026,2025-11-08,Cuidado del Hogar,Lavatodo Sapolio,Moderno,43.0,15.12,650.28
+TRX-2027,2025-11-08,Cuidado del Hogar,Lavatodo Sapolio,Tradicional,48.0,37.04,1778.06
+TRX-2028,2025-11-09,Cuidado del Hogar,Lavatodo Sapolio,Tradicional,34.0,9.73,330.74
+TRX-2029,2025-11-09,Alimentos,Fideos Don Vittorio,,40.0,36.34,1453.5
+TRX-2030,2025-11-09,Cuidado del Hogar,Detergente Bolívar,Tradicional,44.0,41.45,1823.92
+TRX-2031,2025-11-09,Cuidado Personal,Jabón Fresh Menta,Moderno,43.0,20.62,886.74
+TRX-2032,2025-11-10,Cuidado Personal,Jabón Fresh Menta,Mayorista,,30.41,1429.27
+TRX-2033,2025-11-10,Alimentos,Galletas Soda Sayón,Tradicional,2325.0,22.49,52289.25
+TRX-2034,2025-11-10,Alimentos,Fideos Don Vittorio,,44.0,22.79,1002.84
+TRX-2035,2025-11-11,Alimentos,Fideos Don Vittorio,Tradicional,47.0,17.76,834.7
+TRX-2036,2025-11-11,Alimentos,Fideos Don Vittorio,Tradicional,51.0,35.6,1815.81
+TRX-2037,2025-11-11,Cuidado Personal,Desodorante Mirror Dry,Tradicional,52.0,42.48,2208.91
+TRX-2038,2025-11-12,Alimentos,Aceite Primor Premium,Moderno,51.0,42.66,2175.64
+TRX-2039,2025-11-12,Cuidado Personal,Desodorante Mirror Dry,Tradicional,43.0,12.4,533.37
+TRX-2040,2025-11-12,Alimentos,Aceite Primor Premium,Tradicional,46.0,40.05,1842.41
+TRX-2041,2025-11-13,Alimentos,Fideos Don Vittorio,,39.0,34.63,1350.51
+TRX-2042,2025-11-13,Alimentos,Fideos Don Vittorio,Moderno,46.0,15.49,712.41
+TRX-2043,2025-11-13,Cuidado Personal,Desodorante Mirror Dry,Tradicional,31.0,8.16,252.89
+TRX-2044,2025-11-13,Cuidado Personal,Desodorante Mirror Dry,Tradicional,51.0,16.09,820.38
+TRX-2045,2025-11-14,Alimentos,Aceite Primor Premium,Tradicional,,41.53,1619.76
+TRX-2046,2025-11-14,Cuidado Personal,Jabón Fresh Menta,Tradicional,33.0,30.51,1006.85
+TRX-2047,2025-11-14,Alimentos,Aceite Primor Premium,Tradicional,37.0,33.98,1257.32
+TRX-2048,2025-11-15,Cuidado Personal,Desodorante Mirror Dry,Tradicional,38.0,15.66,594.99
+TRX-2049,2025-11-15,Cuidado del Hogar,Detergente Bolívar,Moderno,30.0,33.92,1017.47
+TRX-2050,2025-11-15,Cuidado Personal,Desodorante Mirror Dry,Tradicional,45.0,6.61,297.49
+TRX-2051,2025-11-16,Cuidado del Hogar,Detergente Bolívar,Tradicional,43.0,20.33,873.98
+TRX-2052,2025-11-16,Alimentos,Galletas Soda Sayón,Tradicional,37.0,30.26,1119.5
+TRX-2053,2025-11-16,Cuidado Personal,Desodorante Mirror Dry,,32.0,11.27,360.67
+TRX-2054,2025-11-16,Alimentos,Galletas Soda Sayón,Moderno,46.0,38.01,1748.4
+TRX-2055,2025-11-17,Cuidado Personal,Jabón Fresh Menta,Moderno,54.0,14.78,798.32
+TRX-2056,2025-11-17,Alimentos,Aceite Primor Premium,Moderno,62.0,31.27,1938.44
+TRX-2057,2025-11-17,Cuidado del Hogar,Detergente Bolívar,Tradicional,35.0,21.51,752.69
+TRX-2058,2025-11-18,Alimentos,Aceite Primor Premium,Tradicional,38.0,29.04,1103.66
+TRX-2059,2025-11-18,Alimentos,Galletas Soda Sayón,Tradicional,48.0,9.74,467.73
+TRX-2060,2025-11-18,Cuidado del Hogar,Detergente Bolívar,Tradicional,59.0,6.17,363.92
+TRX-2061,2025-11-19,Alimentos,Aceite Primor Premium,Tradicional,1943.0,41.43,80498.49
+TRX-2062,2025-11-19,Cuidado Personal,Desodorante Mirror Dry,Moderno,38.0,16.15,613.71
+TRX-2063,2025-11-19,Alimentos,Fideos Don Vittorio,Tradicional,36.0,37.88,1363.58
+TRX-2064,2025-11-20,Alimentos,Galletas Soda Sayón,Tradicional,1446.0,44.97,65026.619999999995
+TRX-2065,2025-11-20,Alimentos,Aceite Primor Premium,Tradicional,60.0,13.85,831.09
+TRX-2066,2025-11-20,Alimentos,Galletas Soda Sayón,Tradicional,43.0,15.97,686.89
+TRX-2067,2025-11-20,Cuidado del Hogar,Lavatodo Sapolio,Tradicional,33.0,31.68,1045.54
+TRX-2068,2025-11-21,Alimentos,Galletas Soda Sayón,Mayorista,48.0,43.64,2094.49
+TRX-2069,2025-11-21,Cuidado del Hogar,Detergente Bolívar,Moderno,43.0,41.67,1792.01
+TRX-2070,2025-11-21,Cuidado del Hogar,Lavatodo Sapolio,Mayorista,43.0,25.36,1090.63
+TRX-2071,2025-11-22,Cuidado del Hogar,Detergente Bolívar,Tradicional,42.0,36.91,1550.09
+TRX-2072,2025-11-22,Alimentos,Fideos Don Vittorio,Tradicional,35.0,10.86,380.17
+TRX-2073,2025-11-22,Cuidado del Hogar,Lavatodo Sapolio,Tradicional,47.0,44.11,2073.11
+TRX-2074,2025-11-23,Cuidado Personal,Desodorante Mirror Dry,Tradicional,,43.59,1787.27
+TRX-2075,2025-11-23,Alimentos,Galletas Soda Sayón,,39.0,11.97,466.72
+TRX-2076,2025-11-23,Alimentos,Aceite Primor Premium,Tradicional,38.0,17.33,658.43
+TRX-2077,2025-11-23,Cuidado Personal,Jabón Fresh Menta,Tradicional,49.0,9.46,463.35
+TRX-2078,2025-11-24,Alimentos,Galletas Soda Sayón,Tradicional,1770.0,16.23,28727.100000000002
+TRX-2079,2025-11-24,Alimentos,Galletas Soda Sayón,Tradicional,33.0,37.73,1245.1
+TRX-2080,2025-11-24,Alimentos,Fideos Don Vittorio,Moderno,42.0,20.44,858.63
+TRX-2081,2025-11-25,Cuidado Personal,Desodorante Mirror Dry,Tradicional,39.0,8.99,350.68
+TRX-2082,2025-11-25,Cuidado Personal,Jabón Fresh Menta,Tradicional,38.0,19.02,722.68
+TRX-2083,2025-11-25,Cuidado del Hogar,Lavatodo Sapolio,Tradicional,42.0,44.26,1859.11
+TRX-2084,2025-11-26,Cuidado del Hogar,Lavatodo Sapolio,Tradicional,43.0,30.37,1306.02
+TRX-2085,2025-11-26,Cuidado del Hogar,Lavatodo Sapolio,Moderno,52.0,21.94,1140.79
+TRX-2086,2025-11-26,Cuidado del Hogar,Detergente Bolívar,Moderno,54.0,12.08,652.23
+TRX-2087,2025-11-26,Cuidado del Hogar,Detergente Bolívar,Mayorista,49.0,44.45,2178.25
+TRX-2088,2025-11-27,Alimentos,Aceite Primor Premium,Moderno,43.0,37.92,1630.71
+TRX-2089,2025-11-27,Cuidado Personal,Jabón Fresh Menta,Tradicional,43.0,16.62,714.59
+TRX-2090,2025-11-27,Cuidado del Hogar,Lavatodo Sapolio,Moderno,48.0,8.27,396.85
+TRX-2091,2025-11-28,Cuidado del Hogar,Detergente Bolívar,Tradicional,36.0,7.74,278.52
+TRX-2092,2025-11-28,Alimentos,Aceite Primor Premium,Tradicional,39.0,10.25,399.94
+TRX-2093,2025-11-28,Cuidado Personal,Desodorante Mirror Dry,Moderno,48.0,28.44,1365.14
+TRX-2094,2025-11-29,Alimentos,Aceite Primor Premium,Tradicional,43.0,42.19,1814.0
+TRX-2095,2025-11-29,Cuidado del Hogar,Detergente Bolívar,Mayorista,47.0,25.12,1180.7
+TRX-2096,2025-11-29,Alimentos,Fideos Don Vittorio,Tradicional,37.0,38.8,1435.46
+TRX-2097,2025-11-30,Alimentos,Fideos Don Vittorio,,46.0,23.11,1063.18
+TRX-2098,2025-11-30,Cuidado del Hogar,Lavatodo Sapolio,Tradicional,39.0,33.49,1306.07
+TRX-2099,2025-11-30,Alimentos,Fideos Don Vittorio,Moderno,51.0,34.41,1754.86
+TRX-2100,2025-11-30,Cuidado del Hogar,Lavatodo Sapolio,Tradicional,40.0,12.37,494.86
+TRX-2101,2025-12-01,Cuidado del Hogar,Lavatodo Sapolio,Tradicional,46.0,19.77,909.33
+TRX-2102,2025-12-01,Cuidado del Hogar,Detergente Bolívar,Tradicional,50.0,30.67,1533.67
+TRX-2103,2025-12-01,Alimentos,Fideos Don Vittorio,Tradicional,45.0,8.29,373.16
+TRX-2104,2025-12-02,Cuidado del Hogar,Lavatodo Sapolio,Tradicional,40.0,19.78,791.23
+TRX-2105,2025-12-02,Cuidado Personal,Jabón Fresh Menta,Moderno,47.0,26.62,1251.36
+TRX-2106,2025-12-02,Cuidado Personal,Desodorante Mirror Dry,Tradicional,41.0,44.85,1838.89
+TRX-2107,2025-12-03,Alimentos,Aceite Primor Premium,Moderno,45.0,24.24,1090.98
+TRX-2108,2025-12-03,Alimentos,Aceite Primor Premium,Tradicional,50.0,37.73,1886.71
+TRX-2109,2025-12-03,Cuidado del Hogar,Detergente Bolívar,Tradicional,38.0,22.57,857.53
+TRX-2110,2025-12-03,Alimentos,Fideos Don Vittorio,Moderno,,36.96,1256.55
+TRX-2111,2025-12-04,Alimentos,Fideos Don Vittorio,Tradicional,46.0,29.02,1334.87
+TRX-2112,2025-12-04,Cuidado del Hogar,Lavatodo Sapolio,,45.0,40.52,1823.42
+TRX-2113,2025-12-04,Alimentos,Galletas Soda Sayón,Tradicional,38.0,21.73,825.82
+TRX-2114,2025-12-05,Cuidado del Hogar,Lavatodo Sapolio,Mayorista,53.0,29.37,1556.61
+TRX-2115,2025-12-05,Cuidado Personal,Desodorante Mirror Dry,Moderno,55.0,30.39,1671.22
+TRX-2116,2025-12-05,Cuidado Personal,Jabón Fresh Menta,Tradicional,52.0,21.99,1143.3
+TRX-2117,2025-12-06,Alimentos,Aceite Primor Premium,Tradicional,46.0,11.2,515.21
+TRX-2118,2025-12-06,Cuidado del Hogar,Lavatodo Sapolio,Tradicional,40.0,9.2,367.82
+TRX-2119,2025-12-06,Alimentos,Galletas Soda Sayón,,40.0,6.16,246.34
+TRX-2120,2025-12-07,Alimentos,Galletas Soda Sayón,Tradicional,46.0,40.0,1840.21
+TRX-2121,2025-12-07,Cuidado del Hogar,Lavatodo Sapolio,Tradicional,43.0,14.84,638.15
+TRX-2122,2025-12-07,Cuidado del Hogar,Detergente Bolívar,Tradicional,33.0,13.85,457.2
+TRX-2123,2025-12-07,Alimentos,Aceite Primor Premium,Tradicional,38.0,34.57,1313.79
+TRX-2124,2025-12-08,Cuidado del Hogar,Detergente Bolívar,Tradicional,39.0,18.14,707.48
+TRX-2125,2025-12-08,Cuidado Personal,Jabón Fresh Menta,Moderno,43.0,25.49,1096.02
+TRX-2126,2025-12-08,Alimentos,Galletas Soda Sayón,Tradicional,1789.0,11.92,21324.88
+TRX-2127,2025-12-09,Alimentos,Galletas Soda Sayón,Tradicional,58.0,43.41,2517.78
+TRX-2128,2025-12-09,Cuidado Personal,Desodorante Mirror Dry,Tradicional,,39.14,1722.05
+TRX-2129,2025-12-09,Cuidado Personal,Jabón Fresh Menta,Mayorista,48.0,39.62,1901.75
+TRX-2130,2025-12-10,Alimentos,Galletas Soda Sayón,Tradicional,49.0,21.57,1056.81
+TRX-2131,2025-12-10,Cuidado Personal,Jabón Fresh Menta,Moderno,54.0,35.61,1923.12
+TRX-2132,2025-12-10,Alimentos,Aceite Primor Premium,Tradicional,40.0,11.18,447.32
+TRX-2133,2025-12-10,Alimentos,Fideos Don Vittorio,Tradicional,45.0,5.84,262.82
+TRX-2134,2025-12-11,Alimentos,Galletas Soda Sayón,Tradicional,39.0,6.29,245.27
+TRX-2135,2025-12-11,Cuidado Personal,Desodorante Mirror Dry,Tradicional,50.0,28.67,1433.54
+TRX-2136,2025-12-11,Alimentos,Aceite Primor Premium,Tradicional,43.0,23.49,1009.99
+TRX-2137,2025-12-12,Cuidado del Hogar,Lavatodo Sapolio,Moderno,58.0,25.96,1505.77
+TRX-2138,2025-12-12,Cuidado Personal,Jabón Fresh Menta,Tradicional,51.0,5.79,295.53
+TRX-2139,2025-12-12,Cuidado del Hogar,Lavatodo Sapolio,Tradicional,43.0,22.2,954.43
+TRX-2140,2025-12-13,Cuidado del Hogar,Detergente Bolívar,Tradicional,48.0,33.86,1625.46
+TRX-2141,2025-12-13,Alimentos,Aceite Primor Premium,Mayorista,46.0,22.99,1057.37
+TRX-2142,2025-12-13,Cuidado del Hogar,Lavatodo Sapolio,Moderno,45.0,34.42,1549.02
+TRX-2143,2025-12-13,Alimentos,Galletas Soda Sayón,Tradicional,44.0,14.7,646.99
+TRX-2144,2025-12-14,Cuidado Personal,Jabón Fresh Menta,Mayorista,50.0,37.62,1880.96
+TRX-2145,2025-12-14,Alimentos,Fideos Don Vittorio,Tradicional,43.0,28.74,1235.95
+TRX-2146,2025-12-14,Alimentos,Aceite Primor Premium,Tradicional,38.0,13.83,525.36
+TRX-2147,2025-12-15,Alimentos,Galletas Soda Sayón,Moderno,56.0,14.85,831.63
+TRX-2148,2025-12-15,Cuidado Personal,Desodorante Mirror Dry,,53.0,30.31,1606.28
+TRX-2149,2025-12-15,Cuidado del Hogar,Detergente Bolívar,Tradicional,61.0,38.28,2335.24
+TRX-2150,2025-12-16,Cuidado Personal,Jabón Fresh Menta,Tradicional,42.0,21.92,920.53
+TRX-2151,2025-12-16,Alimentos,Aceite Primor Premium,Tradicional,45.0,15.7,706.63
+TRX-2152,2025-12-16,Alimentos,Aceite Primor Premium,Mayorista,40.0,39.75,1589.88
+TRX-2153,2025-12-17,Alimentos,Fideos Don Vittorio,Tradicional,41.0,31.94,1309.38
+TRX-2154,2025-12-17,Alimentos,Fideos Don Vittorio,Tradicional,53.0,23.2,1229.57
+TRX-2155,2025-12-17,Cuidado Personal,Desodorante Mirror Dry,Tradicional,37.0,24.77,916.57
+TRX-2156,2025-12-17,Cuidado del Hogar,Detergente Bolívar,Tradicional,59.0,13.57,800.52
+TRX-2157,2025-12-18,Cuidado Personal,Desodorante Mirror Dry,Tradicional,42.0,30.26,1270.87
+TRX-2158,2025-12-18,Alimentos,Galletas Soda Sayón,Mayorista,48.0,19.67,944.18
+TRX-2159,2025-12-18,Alimentos,Galletas Soda Sayón,Tradicional,36.0,44.83,1613.81
+TRX-2160,2025-12-19,Cuidado Personal,Desodorante Mirror Dry,Tradicional,41.0,24.47,1003.16
+TRX-2161,2025-12-19,Cuidado del Hogar,Detergente Bolívar,Tradicional,50.0,24.69,1234.62
+TRX-2162,2025-12-19,Cuidado Personal,Desodorante Mirror Dry,Moderno,59.0,27.85,1643.22
+TRX-2163,2025-12-20,Cuidado del Hogar,Detergente Bolívar,Tradicional,53.0,41.71,2210.73
+TRX-2164,2025-12-20,Cuidado del Hogar,Detergente Bolívar,Tradicional,49.0,37.13,1819.48
+TRX-2165,2025-12-20,Cuidado del Hogar,Lavatodo Sapolio,Moderno,,23.32,1142.66
+TRX-2166,2025-12-20,Cuidado Personal,Jabón Fresh Menta,Moderno,54.0,33.89,1829.99
+TRX-2167,2025-12-21,Cuidado del Hogar,Detergente Bolívar,Moderno,31.0,28.66,888.35
+TRX-2168,2025-12-21,Alimentos,Fideos Don Vittorio,Mayorista,44.0,24.95,1097.73
+TRX-2169,2025-12-21,Cuidado del Hogar,Detergente Bolívar,Tradicional,43.0,13.1,563.15
+TRX-2170,2025-12-22,Cuidado del Hogar,Detergente Bolívar,Moderno,53.0,23.83,1262.75
+TRX-2171,2025-12-22,Cuidado del Hogar,Detergente Bolívar,Tradicional,38.0,15.21,577.97
+TRX-2172,2025-12-22,Cuidado del Hogar,Lavatodo Sapolio,Moderno,2216.0,41.64,92274.24
+TRX-2173,2025-12-23,Cuidado del Hogar,Lavatodo Sapolio,Moderno,44.0,18.75,824.94
+TRX-2174,2025-12-23,Alimentos,Galletas Soda Sayón,Moderno,52.0,43.11,2241.95
+TRX-2175,2025-12-23,Cuidado del Hogar,Lavatodo Sapolio,Tradicional,35.0,26.56,929.45
+TRX-2176,2025-12-24,Alimentos,Fideos Don Vittorio,Tradicional,48.0,30.45,1461.41
+TRX-2177,2025-12-24,Alimentos,Fideos Don Vittorio,Tradicional,42.0,26.95,1131.74
+TRX-2178,2025-12-24,Cuidado del Hogar,Lavatodo Sapolio,Mayorista,1135.0,10.61,12042.349999999999
+TRX-2179,2025-12-24,Cuidado Personal,Desodorante Mirror Dry,Mayorista,43.0,20.34,874.83
+TRX-2180,2025-12-25,Cuidado Personal,Jabón Fresh Menta,Tradicional,49.0,9.42,461.4
+TRX-2181,2025-12-25,Cuidado del Hogar,Lavatodo Sapolio,Tradicional,40.0,30.11,1204.27
+TRX-2182,2025-12-25,Cuidado del Hogar,Detergente Bolívar,Tradicional,59.0,23.15,1365.94
+TRX-2183,2025-12-26,Alimentos,Aceite Primor Premium,Moderno,51.0,36.23,1847.75
+TRX-2184,2025-12-26,Cuidado Personal,Jabón Fresh Menta,Moderno,36.0,14.21,511.51
+TRX-2185,2025-12-26,Cuidado Personal,Jabón Fresh Menta,Tradicional,42.0,12.0,504.02
+TRX-2186,2025-12-27,Alimentos,Fideos Don Vittorio,Tradicional,42.0,21.55,905.11
+TRX-2187,2025-12-27,Cuidado Personal,Jabón Fresh Menta,Moderno,44.0,42.1,1852.41
+TRX-2188,2025-12-27,Cuidado del Hogar,Lavatodo Sapolio,Moderno,45.0,33.56,1510.27
+TRX-2189,2025-12-27,Cuidado del Hogar,Detergente Bolívar,Tradicional,40.0,22.05,881.9
+TRX-2190,2025-12-28,Cuidado del Hogar,Detergente Bolívar,Tradicional,48.0,25.93,1244.75
+TRX-2191,2025-12-28,Alimentos,Galletas Soda Sayón,Tradicional,43.0,8.83,379.54
+TRX-2192,2025-12-28,Cuidado del Hogar,Detergente Bolívar,Tradicional,51.0,44.39,2263.93
+TRX-2193,2025-12-29,Cuidado del Hogar,Detergente Bolívar,Tradicional,52.0,31.82,1654.8
+TRX-2194,2025-12-29,Alimentos,Fideos Don Vittorio,Moderno,43.0,16.77,721.26
+TRX-2195,2025-12-29,Cuidado del Hogar,Detergente Bolívar,Moderno,40.0,28.64,1145.58
+TRX-2196,2025-12-30,Alimentos,Galletas Soda Sayón,Tradicional,45.0,9.82,442.1
+TRX-2197,2025-12-30,Alimentos,Aceite Primor Premium,Moderno,44.0,43.65,1920.62
+TRX-2198,2025-12-30,Cuidado del Hogar,Lavatodo Sapolio,Tradicional,42.0,12.4,520.97
+TRX-2199,2025-12-31,Alimentos,Fideos Don Vittorio,Tradicional,39.0,31.1,1212.79
+TRX-1000,2025-01-01,Cuidado del Hogar,Lavatodo Sapolio,Tradicional,35.0,14.18,496.15
+TRX-1001,2025-01-01,Cuidado Personal,Jabón Fresh Menta,Tradicional,2392.0,5.51,13179.92
+TRX-1002,2025-01-01,Cuidado Personal,Desodorante Mirror Dry,Moderno,46.0,41.64,1915.56
+TRX-1003,2025-01-01,Cuidado del Hogar,Lavatodo Sapolio,Tradicional,47.0,38.83,1825.16
+TRX-1004,2025-01-02,Alimentos,Fideos Don Vittorio,Tradicional,,34.82,1462.46
+TRX-1005,2025-01-02,Cuidado Personal,Desodorante Mirror Dry,Tradicional,46.0,12.13,557.92
+TRX-1006,2025-01-02,Cuidado Personal,Desodorante Mirror Dry,Tradicional,50.0,10.25,512.72
+TRX-1007,2025-01-03,Cuidado del Hogar,Lavatodo Sapolio,Tradicional,50.0,8.17,408.52
+TRX-1008,2025-01-03,Alimentos,Aceite Primor Premium,Tradicional,62.0,34.1,2114.15
+TRX-1009,2025-01-03,Alimentos,Fideos Don Vittorio,Tradicional,41.0,42.19,1729.7
+TRX-1010,2025-01-04,Cuidado del Hogar,Lavatodo Sapolio,Tradicional,41.0,22.51,922.75
+TRX-1011,2025-01-04,Alimentos,Fideos Don Vittorio,Tradicional,44.0,10.21,449.07
+TRX-1012,2025-01-04,Alimentos,Fideos Don Vittorio,Tradicional,54.0,25.74,1389.93
+TRX-1013,2025-01-04,Cuidado Personal,Desodorante Mirror Dry,Tradicional,43.0,19.28,828.99
+TRX-1014,2025-01-05,Cuidado Personal,Jabón Fresh Menta,Tradicional,49.0,20.31,994.97
+TRX-1015,2025-01-05,Alimentos,Fideos Don Vittorio,Tradicional,47.0,30.04,1412.0
+TRX-1016,2025-01-05,Cuidado del Hogar,Detergente Bolívar,Tradicional,51.0,33.89,1728.36
+TRX-1017,2025-01-06,Cuidado Personal,Desodorante Mirror Dry,Tradicional,47.0,9.87,463.84
+TRX-1018,2025-01-06,Alimentos,Aceite Primor Premium,Tradicional,48.0,6.91,331.48
+TRX-1019,2025-01-06,Cuidado Personal,Jabón Fresh Menta,Mayorista,47.0,44.78,2104.47
+TRX-1020,2025-01-07,Cuidado del Hogar,Detergente Bolívar,Tradicional,46.0,14.69,675.87
+TRX-1021,2025-01-07,Cuidado del Hogar,Detergente Bolívar,Moderno,49.0,7.63,373.69
+TRX-1022,2025-01-07,Alimentos,Aceite Primor Premium,Tradicional,1699.0,13.0,22087.0
+TRX-1023,2025-01-07,Cuidado Personal,Jabón Fresh Menta,,45.0,7.04,316.75
+TRX-1024,2025-01-08,Cuidado Personal,Desodorante Mirror Dry,Moderno,31.0,20.98,650.27
